@@ -24,9 +24,20 @@ jobs:
         run: python bot.py
 
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # Lấy dữ liệu mới nhất về để tránh xung đột
+          git pull origin main --rebase
+          
+          # Kiểm tra xem có thay đổi gì không trước khi commit
           git add playlist.m3u
-          git commit -m "Update playlist" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "Không có thay đổi nào trong playlist."
+          else
+            git commit -m "Update playlist $(date +'%Y-%m-%d %H:%M')"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+          fi
