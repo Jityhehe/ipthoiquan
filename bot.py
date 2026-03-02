@@ -1,41 +1,30 @@
 import requests
 
 def generate_m3u():
-    # API cung cấp danh sách trận đấu
     api_url = "https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
-    }
-
     try:
-        response = requests.get(api_url, headers=headers, timeout=15)
-        response.raise_for_status()
+        response = requests.get(api_url, timeout=15)
         data = response.json()
         
-        # Mở file để ghi
         with open("playlist.m3u", "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
-            
-            # Duyệt qua mảng dữ liệu (thường nằm trong data['data'])
-            items = data.get('data', [])
-            for item in items:
-                # Lấy tên đội nhà và đội khách
-                home = item.get('home_team', {}).get('name', 'Unknown')
-                away = item.get('away_team', {}).get('name', 'Unknown')
-                name = f"{home} vs {away}"
+            for fixture in data.get('data', []):
+                title = fixture.get('title', 'Trận đấu không tên')
+                logo = fixture.get('homeTeam', {}).get('logoUrl', '')
                 
-                # Lấy link stream (thay đổi 'link' tùy theo thực tế API trả về)
-                # Thường là item['stream_links'][0]['link'] hoặc tương tự
-                links = item.get('links', [])
-                if links:
-                    stream_url = links[0].get('link') # Lấy link đầu tiên
-                    f.write(f"#EXTINF:-1 tvg-logo='' group-title='Bóng Đá Trực Tiếp', {name}\n")
-                    f.write(f"{stream_url}\n")
-                    
-        print("Cập nhật file M3U thành công!")
-        
+                # Mò vào lấy link stream từ BLV đầu tiên
+                commentators = fixture.get('fixtureCommentators', [])
+                if commentators:
+                    streams = commentators[0].get('commentator', {}).get('streams', [])
+                    for stream in streams:
+                        # Chỉ lấy link Full HD cho nhẹ list, hoặc lấy tất cả
+                        stream_name = f"{title} ({stream.get('name')})"
+                        url = stream.get('sourceUrl')
+                        if url:
+                            f.write(f"#EXTINF:-1 tvg-logo='{logo}' group-title='Bóng Rổ/Bóng Đá', {stream_name}\n")
+                            f.write(f"{url}\n")
     except Exception as e:
-        print(f"Có lỗi xảy ra: {e}")
+        print(f"Lỗi: {e}")
 
 if __name__ == "__main__":
     generate_m3u()
