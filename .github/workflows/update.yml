@@ -2,8 +2,8 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Chạy mỗi 30 phút
-  workflow_dispatch: # Cho phép bấm chạy thủ công
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -30,14 +30,16 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Lấy dữ liệu mới nhất về để tránh xung đột
-          git pull origin main --rebase
+          # Buộc cập nhật dữ liệu từ GitHub về và ưu tiên bản trên Cloud
+          git fetch origin main
+          git reset --soft origin/main
           
-          # Kiểm tra xem có thay đổi gì không trước khi commit
           git add playlist.m3u
+          
+          # Chỉ push nếu có sự thay đổi thực sự trong file playlist
           if git diff --staged --quiet; then
-            echo "Không có thay đổi nào trong playlist."
+            echo "Không có trận đấu mới, bỏ qua commit."
           else
-            git commit -m "Update playlist $(date +'%Y-%m-%d %H:%M')"
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+            git commit -m "Update playlist: $(date +'%d/%m/%Y %H:%M')"
+            git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
           fi
