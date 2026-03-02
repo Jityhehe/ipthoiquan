@@ -71,12 +71,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s' group-title='Bóng Rổ/Bóng Đá', South East Melbourne vs Perth (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/12316.png' group-title='Bóng Rổ/Bóng Đá', IMT Novi Beograd vs Radnik Surdulica (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/12316.png' group-title='Bóng Rổ/Bóng Đá', IMT Novi Beograd vs Radnik Surdulica (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/12316.png' group-title='Bóng Rổ/Bóng Đá', IMT Novi Beograd vs Radnik Surdulica (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://res2.weblium.site/res/65b11179bf664d000f76362f/68740c74ccd53279455d3c43_optimized' group-title='Bóng Rổ/Bóng Đá', Passion UA vs FUT (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://res2.weblium.site/res/65b11179bf664d000f76362f/68740c74ccd53279455d3c43_optimized' group-title='Bóng Rổ/Bóng Đá', Passion UA vs FUT (HD)
@@ -108,17 +102,17 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png' group-title='Bóng Rổ/Bóng Đá', Pisa vs Bologna (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHUNqkPcsEZ49zQsdnGULnXmI89g8SxAEmw&s' group-title='Bóng Rổ/Bóng Đá', Udinese vs Fiorentina (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_nhadai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHUNqkPcsEZ49zQsdnGULnXmI89g8SxAEmw&s' group-title='Bóng Rổ/Bóng Đá', Udinese vs Fiorentina (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+https://tldm0825.edgemaxcdn.org/hqtv_blv_nhadai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHUNqkPcsEZ49zQsdnGULnXmI89g8SxAEmw&s' group-title='Bóng Rổ/Bóng Đá', Udinese vs Fiorentina (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+https://tldm0825.edgemaxcdn.org/hqtv_blv_nhadai/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png' group-title='Bóng Rổ/Bóng Đá', Real Madrid vs Getafe (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png' group-title='Bóng Rổ/Bóng Đá', Real Madrid vs Getafe (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png' group-title='Bóng Rổ/Bóng Đá', Real Madrid vs Getafe (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/6916.png' group-title='Bóng Rổ/Bóng Đá', Unirea Slobozia vs Rapid (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/6916.png' group-title='Bóng Rổ/Bóng Đá', Unirea Slobozia vs Rapid (HD)
@@ -167,12 +161,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1723.png' group-title='Bóng Rổ/Bóng Đá', China W vs Bangladesh W (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Gil_Vicente_FC.svg/1584px-Logo_Gil_Vicente_FC.svg.png' group-title='Bóng Rổ/Bóng Đá', Gil Vicente        -        Benfica (FHD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Gil_Vicente_FC.svg/1584px-Logo_Gil_Vicente_FC.svg.png' group-title='Bóng Rổ/Bóng Đá', Gil Vicente        -        Benfica (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Gil_Vicente_FC.svg/1584px-Logo_Gil_Vicente_FC.svg.png' group-title='Bóng Rổ/Bóng Đá', Gil Vicente        -        Benfica (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg' group-title='Bóng Rổ/Bóng Đá', Gangwon FC vs Machida Zelvia (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg' group-title='Bóng Rổ/Bóng Đá', Gangwon FC vs Machida Zelvia (HD)
