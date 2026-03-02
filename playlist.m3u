@@ -71,18 +71,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s' group-title='Bóng Rổ/Bóng Đá', South East Melbourne vs Perth (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/200px-Persebaya_logo.svg.png' group-title='Bóng Rổ/Bóng Đá', Persebaya Surabaya vs Persib Bandung (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/200px-Persebaya_logo.svg.png' group-title='Bóng Rổ/Bóng Đá', Persebaya Surabaya vs Persib Bandung (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/200px-Persebaya_logo.svg.png' group-title='Bóng Rổ/Bóng Đá', Persebaya Surabaya vs Persib Bandung (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/b/b8/Logo_PSM_Makasar_Baru.png/250px-Logo_PSM_Makasar_Baru.png' group-title='Bóng Rổ/Bóng Đá', PSM Makassar vs Persita (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/b/b8/Logo_PSM_Makasar_Baru.png/250px-Logo_PSM_Makasar_Baru.png' group-title='Bóng Rổ/Bóng Đá', PSM Makassar vs Persita (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/b/b8/Logo_PSM_Makasar_Baru.png/250px-Logo_PSM_Makasar_Baru.png' group-title='Bóng Rổ/Bóng Đá', PSM Makassar vs Persita (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/12316.png' group-title='Bóng Rổ/Bóng Đá', IMT Novi Beograd vs Radnik Surdulica (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/12316.png' group-title='Bóng Rổ/Bóng Đá', IMT Novi Beograd vs Radnik Surdulica (HD)
