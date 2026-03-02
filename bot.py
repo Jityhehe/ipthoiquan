@@ -21,7 +21,7 @@ def generate_m3u():
                         stream_name = f"{title} ({stream.get('name')})"
                         url = stream.get('sourceUrl')
                         if url:
-                            f.write(f"#EXTINF:-1 tvg-logo='{logo}' group-title='Bóng Rổ/Bóng Đá', {stream_name}\n")
+                            f.write(f"#EXTINF:-1 tvg-logo='{logo}' group-title='Bóng Rổ/Bóng Đá/Esport', {stream_name}\n")
                             f.write(f"{url}\n")
     except Exception as e:
         print(f"Lỗi: {e}")
