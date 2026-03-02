@@ -77,12 +77,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/12316.png' group-title='Bóng Rổ/Bóng Đá', IMT Novi Beograd vs Radnik Surdulica (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBWbDDGmz1SPLVR85NZux9NeU8sPxk_qh_A&s' group-title='Bóng Rổ/Bóng Đá', Parivision vs paiN (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBWbDDGmz1SPLVR85NZux9NeU8sPxk_qh_A&s' group-title='Bóng Rổ/Bóng Đá', Parivision vs paiN (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBWbDDGmz1SPLVR85NZux9NeU8sPxk_qh_A&s' group-title='Bóng Rổ/Bóng Đá', Parivision vs paiN (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://res2.weblium.site/res/65b11179bf664d000f76362f/68740c74ccd53279455d3c43_optimized' group-title='Bóng Rổ/Bóng Đá', Passion UA vs FUT (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://res2.weblium.site/res/65b11179bf664d000f76362f/68740c74ccd53279455d3c43_optimized' group-title='Bóng Rổ/Bóng Đá', Passion UA vs FUT (HD)
@@ -233,3 +227,21 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PFC_Botev_Plovdiv_logo.svg/1200px-PFC_Botev_Plovdiv_logo.svg.png' group-title='Bóng Rổ/Bóng Đá', Botev Plovdiv vs Septemvri Sofia (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png' group-title='Bóng Rổ/Bóng Đá', Bournemouth vs Brentford (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png' group-title='Bóng Rổ/Bóng Đá', Bournemouth vs Brentford (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png' group-title='Bóng Rổ/Bóng Đá', Bournemouth vs Brentford (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg' group-title='Bóng Rổ/Bóng Đá', Everton vs Burnley (FHD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg' group-title='Bóng Rổ/Bóng Đá', Everton vs Burnley (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg' group-title='Bóng Rổ/Bóng Đá', Everton vs Burnley (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/63.png' group-title='Bóng Rổ/Bóng Đá', Leeds vs Sunderland (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/63.png' group-title='Bóng Rổ/Bóng Đá', Leeds vs Sunderland (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/63.png' group-title='Bóng Rổ/Bóng Đá', Leeds vs Sunderland (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v1a1/mono.m3u8
