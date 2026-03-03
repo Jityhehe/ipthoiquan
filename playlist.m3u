@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 19:30 - 03/03 | Liuss vs Tan n
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2444.png' group-title='HoiQuanTV Full HD', 20:30 - 03/03 | Persepam Madura Utd vs Malut United
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10134.png' group-title='HoiQuanTV Full HD', 20:30 - 03/03 | Persija vs Pusamania Borneo
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15470.png' group-title='HoiQuanTV Full HD', 22:00 - 03/03 | Sporting CP U23 vs Leixões U23
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PFC_Botev_Plovdiv_logo.svg/1200px-PFC_Botev_Plovdiv_logo.svg.png' group-title='HoiQuanTV Full HD', 23:30 - 03/03 | Botev Plovdiv vs Septemvri Sofia
