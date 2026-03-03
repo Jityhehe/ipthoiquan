@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png' group-title='Bóng Rổ/Bóng Đá', Golden State Warriors vs  Los Angeles Clippers (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png' group-title='Bóng Rổ/Bóng Đá', Golden State Warriors vs  Los Angeles Clippers (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png' group-title='Bóng Rổ/Bóng Đá', Golden State Warriors vs  Los Angeles Clippers (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/5/52/Hapoel_Tel_Aviv_Logo.png' group-title='Bóng Rổ/Bóng Đá', Hapoel Tel-Aviv vs Paris (Full HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/5/52/Hapoel_Tel_Aviv_Logo.png' group-title='Bóng Rổ/Bóng Đá', Hapoel Tel-Aviv vs Paris (HD)
@@ -65,12 +59,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1f/Invictus_Gaming_logo.png' group-title='Bóng Rổ/Bóng Đá', IG - AL (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/27382.png' group-title='Bóng Rổ/Bóng Đá', Tahiti United vs Hekari United (Full HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/27382.png' group-title='Bóng Rổ/Bóng Đá', Tahiti United vs Hekari United (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/27382.png' group-title='Bóng Rổ/Bóng Đá', Tahiti United vs Hekari United (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/945.png' group-title='Bóng Rổ/Bóng Đá', Melbourne City vs Buriram United (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/945.png' group-title='Bóng Rổ/Bóng Đá', Melbourne City vs Buriram United (HD)
@@ -217,9 +205,3 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/8jtboiZg-jy7BJ1Jq.png' group-title='Bóng Rổ/Bóng Đá', Projekt Warzawa	vs	Trentino (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg' group-title='Bóng Rổ/Bóng Đá', Utah Jazz vs Denver Nuggets	 (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg' group-title='Bóng Rổ/Bóng Đá', Utah Jazz vs Denver Nuggets	 (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg' group-title='Bóng Rổ/Bóng Đá', Utah Jazz vs Denver Nuggets	 (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
