@@ -47,12 +47,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s' group-title='Bóng Rổ/Bóng Đá', South East Melbourne vs Perth (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://pbs.twimg.com/media/Epa94XrU0AIoHdE?format=jpg&name=large' group-title='Bóng Rổ/Bóng Đá', TBD- T1 A (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://pbs.twimg.com/media/Epa94XrU0AIoHdE?format=jpg&name=large' group-title='Bóng Rổ/Bóng Đá', TBD- T1 A (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://pbs.twimg.com/media/Epa94XrU0AIoHdE?format=jpg&name=large' group-title='Bóng Rổ/Bóng Đá', TBD- T1 A (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1f/Invictus_Gaming_logo.png' group-title='Bóng Rổ/Bóng Đá', IG - AL (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1f/Invictus_Gaming_logo.png' group-title='Bóng Rổ/Bóng Đá', IG - AL (HD)
