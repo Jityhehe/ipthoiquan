@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 19:30 - 03/03 | Liuss vs Tan n
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15470.png' group-title='HoiQuanTV Full HD', 22:00 - 03/03 | Sporting CP U23 vs Leixões U23
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PFC_Botev_Plovdiv_logo.svg/1200px-PFC_Botev_Plovdiv_logo.svg.png' group-title='HoiQuanTV Full HD', 23:30 - 03/03 | Botev Plovdiv vs Septemvri Sofia
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/5/52/Hapoel_Tel_Aviv_Logo.png' group-title='HoiQuanTV Full HD', 00:00 - 04/03 | Hapoel Tel-Aviv vs Paris
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1u96cOtkJPYxy0vcvQQ48y_OgZC8uWoS62Q&s' group-title='HoiQuanTV Full HD', 00:00 - 04/03 | Fenerbahce	vs	Aras Kargo
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Alanyaspor_logo.svg' group-title='HoiQuanTV Full HD', 00:30 - 04/03 | Alanyaspor vs Galatasaray
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png' group-title='HoiQuanTV Full HD', 02:30 - 04/03 | Bournemouth vs Brentford
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg' group-title='HoiQuanTV Full HD', 02:30 - 04/03 | Everton vs Burnley
@@ -95,5 +93,9 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Wonju_DB_Promy.svg/250px-Wonju_DB_Promy.svg.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Wonju DB vs KCC Egis
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueKDJv_sVCqyatupr4zbEkjIDRFsCTaRJvg&s' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Huyndai Hillstate vs Hungkuk Pink Spider	
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/9b/Sakaiblazers.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Osaka Sakai vs Suntory Sunbirds	
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='HoiQuanTV Full HD', 18:35 - 05/03 | Guangzhou vs Shandong
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
