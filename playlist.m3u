@@ -65,12 +65,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg' group-title='Bóng Rổ/Bóng Đá', Gangwon FC vs Machida Zelvia (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/20087.png' group-title='Bóng Rổ/Bóng Đá', Syunik vs Andranik (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/20087.png' group-title='Bóng Rổ/Bóng Đá', Syunik vs Andranik (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/20087.png' group-title='Bóng Rổ/Bóng Đá', Syunik vs Andranik (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/e/e7/Spartak_Varna.png' group-title='Bóng Rổ/Bóng Đá', Spartak Varna vs Montana (Full HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/e/e7/Spartak_Varna.png' group-title='Bóng Rổ/Bóng Đá', Spartak Varna vs Montana (HD)
@@ -355,19 +349,19 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='Bóng Rổ/Bóng Đá', Guangzhou vs Shandong (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4oMJWo8_GgRGNsy-i6z2yxtA1AmgG49J2g&s' group-title='Bóng Rổ/Bóng Đá', Feng Y. Z. / Huang D. P. vs Hee Y. K. T. / Widjaja G. E. (FULL HD)
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='Bóng Rổ/Bóng Đá', Feng Y. Z. / Huang D. P. vs Hee Y. K. T. / Widjaja G. E. (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4oMJWo8_GgRGNsy-i6z2yxtA1AmgG49J2g&s' group-title='Bóng Rổ/Bóng Đá', Feng Y. Z. / Huang D. P. vs Hee Y. K. T. / Widjaja G. E. (HD)
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='Bóng Rổ/Bóng Đá', Feng Y. Z. / Huang D. P. vs Hee Y. K. T. / Widjaja G. E. (HD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4oMJWo8_GgRGNsy-i6z2yxtA1AmgG49J2g&s' group-title='Bóng Rổ/Bóng Đá', Feng Y. Z. / Huang D. P. vs Hee Y. K. T. / Widjaja G. E. (SD)
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='Bóng Rổ/Bóng Đá', Feng Y. Z. / Huang D. P. vs Hee Y. K. T. / Widjaja G. E. (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png' group-title='Bóng Rổ/Bóng Đá', Carnando L. R. / Maulana B. vs Lee J-H. / Yang Po-Hsuan (FHD)
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='Bóng Rổ/Bóng Đá', Carnando L. R. / Maulana B. vs Lee J-H. / Yang Po-Hsuan (FHD)
 https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4oMJWo8_GgRGNsy-i6z2yxtA1AmgG49J2g&s' group-title='Bóng Rổ/Bóng Đá', Liuss vs Tan n (FULL HD)
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='Bóng Rổ/Bóng Đá', Liuss vs Tan n (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4oMJWo8_GgRGNsy-i6z2yxtA1AmgG49J2g&s' group-title='Bóng Rổ/Bóng Đá', Liuss vs Tan n (HD)
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='Bóng Rổ/Bóng Đá', Liuss vs Tan n (HD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4oMJWo8_GgRGNsy-i6z2yxtA1AmgG49J2g&s' group-title='Bóng Rổ/Bóng Đá', Liuss vs Tan n (SD)
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='Bóng Rổ/Bóng Đá', Liuss vs Tan n (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/250px-Logo_Como_1907_2019.png' group-title='Bóng Rổ/Bóng Đá', Como vs Inter (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
