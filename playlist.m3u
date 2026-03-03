@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/MBIxw8f5-zNBiPbd0.png' group-title='Bóng Rổ/Bóng Đá', Washington Wizards vs Houston Rockets (Full HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/MBIxw8f5-zNBiPbd0.png' group-title='Bóng Rổ/Bóng Đá', Washington Wizards vs Houston Rockets (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/MBIxw8f5-zNBiPbd0.png' group-title='Bóng Rổ/Bóng Đá', Washington Wizards vs Houston Rockets (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='Bóng Rổ/Bóng Đá', Milwaukee Bucks vs Boston Celtics (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='Bóng Rổ/Bóng Đá', Milwaukee Bucks vs Boston Celtics (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='Bóng Rổ/Bóng Đá', Milwaukee Bucks vs Boston Celtics (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg' group-title='Bóng Rổ/Bóng Đá', Utah Jazz vs Denver Nuggets (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg' group-title='Bóng Rổ/Bóng Đá', Utah Jazz vs Denver Nuggets (HD)
@@ -83,8 +71,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1f/Invictus_Gaming_logo.png' group-title='Bóng Rổ/Bóng Đá', IG - AL (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/449.png' group-title='Bóng Rổ/Bóng Đá', Banfield vs Aldosivi (FHD)
-https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/21343.png' group-title='Bóng Rổ/Bóng Đá', Korea DPR vs Uzbekistan W (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/21343.png' group-title='Bóng Rổ/Bóng Đá', Korea DPR vs Uzbekistan W (HD)
