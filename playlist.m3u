@@ -47,12 +47,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s' group-title='Bóng Rổ/Bóng Đá', South East Melbourne vs Perth (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3578.png' group-title='Bóng Rổ/Bóng Đá', İstanbulspor vs Boluspor (FULL HD)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3578.png' group-title='Bóng Rổ/Bóng Đá', İstanbulspor vs Boluspor (HD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3578.png' group-title='Bóng Rổ/Bóng Đá', İstanbulspor vs Boluspor (SD)
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2444.png' group-title='Bóng Rổ/Bóng Đá', Persepam Madura Utd vs Malut United (FULL HD)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2444.png' group-title='Bóng Rổ/Bóng Đá', Persepam Madura Utd vs Malut United (HD)
