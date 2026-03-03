@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 19:30 - 03/03 | Liuss vs Tan n
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PFC_Botev_Plovdiv_logo.svg/1200px-PFC_Botev_Plovdiv_logo.svg.png' group-title='HoiQuanTV Full HD', 23:30 - 03/03 | Botev Plovdiv vs Septemvri Sofia
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1u96cOtkJPYxy0vcvQQ48y_OgZC8uWoS62Q&s' group-title='HoiQuanTV Full HD', 00:00 - 04/03 | Fenerbahce	vs	Aras Kargo
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Alanyaspor_logo.svg' group-title='HoiQuanTV Full HD', 00:30 - 04/03 | Alanyaspor vs Galatasaray
@@ -43,6 +41,8 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1052px-SacramentoKings.svg.png' group-title='HoiQuanTV Full HD', 11:00 - 04/03 | Sacramento Kings vs Phoenix Suns
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg' group-title='HoiQuanTV Full HD', 11:00 - 04/03 | Pattayya
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='HoiQuanTV Full HD', 12:00 - 04/03 | Japan W vs Chinese Taipei W
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s' group-title='HoiQuanTV Full HD', 15:00 - 04/03 | South East Melbourne vs Perth
