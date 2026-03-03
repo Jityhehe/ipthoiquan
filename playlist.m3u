@@ -1,105 +1,105 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='Khác', 19:30 - 03/03 | Liuss vs Tan n
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2444.png' group-title='Bóng Đá', 20:30 - 03/03 | Persepam Madura Utd vs Malut United
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10134.png' group-title='Bóng Đá', 20:30 - 03/03 | Persija vs Pusamania Borneo
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15470.png' group-title='Bóng Đá', 22:00 - 03/03 | Sporting CP U23 vs Leixões U23
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PFC_Botev_Plovdiv_logo.svg/1200px-PFC_Botev_Plovdiv_logo.svg.png' group-title='Bóng Đá', 23:30 - 03/03 | Botev Plovdiv vs Septemvri Sofia
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/5/52/Hapoel_Tel_Aviv_Logo.png' group-title='Bóng Rổ', 00:00 - 04/03 | Hapoel Tel-Aviv vs Paris
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/5/52/Hapoel_Tel_Aviv_Logo.png' group-title='Bóng Rổ', [Bóng Rổ] 00:00 | Hapoel Tel-Aviv vs Paris
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1u96cOtkJPYxy0vcvQQ48y_OgZC8uWoS62Q&s' group-title='Khác', 00:00 - 04/03 | Fenerbahce	vs	Aras Kargo
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/564.png' group-title='Bóng Đá', 00:30 - 04/03 | Başakşehir vs Trabzonspor
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png' group-title='Bóng Đá', 02:30 - 04/03 | Bournemouth vs Brentford
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg' group-title='Bóng Đá', 02:30 - 04/03 | Everton vs Burnley
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSON_xAXqlmVA6CaABNgxtXMaVaFZIg65IPrg&s' group-title='Bóng Rổ', [Bóng Rổ] 07:00 | Cleveland Cavaliers vs Detroit Pistons
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png' group-title='Bóng Rổ', [Bóng Rổ] 07:00 | Charlotte Hornets vs Dallas Mavericks
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/d8/Chicago_Bulls_logo.png' group-title='Bóng Rổ', [Bóng Rổ] 08:00 | Chicago Bulls vs Oklahoma City Thunder
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='Bóng Rổ', [Bóng Rổ] 08:00 | Philadelphia 76ers vs San Antonio Spurs
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/63.png' group-title='Bóng Đá', 02:30 - 04/03 | Leeds vs Sunderland
+#EXTINF:-1 tvg-logo='https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png' group-title='Bóng Rổ', [Bóng Rổ] 10:30 | Los Angeles Lakers vs New Orleans Pelicans
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1052px-SacramentoKings.svg.png' group-title='Bóng Rổ', [Bóng Rổ] 11:00 | Sacramento Kings vs Phoenix Suns
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s' group-title='Bóng Rổ', [Bóng Rổ] 15:00 | South East Melbourne vs Perth
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='Bóng Rổ', [Bóng Rổ] 07:00 | New York Knicks vs Oklahoma City Thunder
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png' group-title='Bóng Rổ', [Bóng Rổ] 07:30 | Boston Celtics vs Charlotte Hornets
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='Bóng Rổ', [Bóng Rổ] 07:30 | Philadelphia 76ers vs Utah Jazz
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlL_9dDgMuBeYiaw2I5eFhvvNa7eUvr7Z8A&s' group-title='Bóng Rổ', [Bóng Rổ] 08:00 | Memphis Grizzlies vs Portland Trail Blazers
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='Bóng Rổ', [Bóng Rổ] 09:30 | Milwaukee Bucks vs Atlanta Hawks
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png' group-title='Bóng Rổ', [Bóng Rổ] 10:30 | Los Angeles Clippers vs Indiana Pacers
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png' group-title='Bóng Rổ', [Bóng Rổ] 15:00 |    	 Melbourne United vs Tasmania JackJumpers
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='Bóng Rổ', [Bóng Rổ] 17:00 | Goyang Sono vs Anyang JungKwanJang
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Wonju_DB_Promy.svg/250px-Wonju_DB_Promy.svg.png' group-title='Bóng Rổ', [Bóng Rổ] 17:00 | Wonju DB vs KCC Egis
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='Bóng Rổ', [Bóng Rổ] 18:35 | Guangzhou vs Shandong
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2444.png' group-title='Bóng Đá', [Bóng Đá] 20:30 | Persepam Madura Utd vs Malut United
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10134.png' group-title='Bóng Đá', [Bóng Đá] 20:30 | Persija vs Pusamania Borneo
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15470.png' group-title='Bóng Đá', [Bóng Đá] 22:00 | Sporting CP U23 vs Leixões U23
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PFC_Botev_Plovdiv_logo.svg/1200px-PFC_Botev_Plovdiv_logo.svg.png' group-title='Bóng Đá', [Bóng Đá] 23:30 | Botev Plovdiv vs Septemvri Sofia
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/564.png' group-title='Bóng Đá', [Bóng Đá] 00:30 | Başakşehir vs Trabzonspor
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png' group-title='Bóng Đá', [Bóng Đá] 02:30 | Bournemouth vs Brentford
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg' group-title='Bóng Đá', [Bóng Đá] 02:30 | Everton vs Burnley
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/63.png' group-title='Bóng Đá', [Bóng Đá] 02:30 | Leeds vs Sunderland
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg' group-title='Bóng Đá', 03:00 - 04/03 | Barcelona vs Atletico Madrid
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg' group-title='Bóng Đá', [Bóng Đá] 03:00 | Barcelona vs Atletico Madrid
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg' group-title='Bóng Đá', 03:00 - 04/03 | Barcelona vs Atletico Madrid
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg' group-title='Bóng Đá', [Bóng Đá] 03:00 | Barcelona vs Atletico Madrid
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg' group-title='Bóng Đá', 03:00 - 04/03 | Barcelona vs Atletico Madrid
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg' group-title='Bóng Đá', [Bóng Đá] 03:00 | Barcelona vs Atletico Madrid
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/250px-Logo_Como_1907_2019.png' group-title='Bóng Đá', 03:00 - 04/03 | Como vs Inter
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/250px-Logo_Como_1907_2019.png' group-title='Bóng Đá', [Bóng Đá] 03:00 | Como vs Inter
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/445.png' group-title='Bóng Đá', 05:15 - 04/03 | Huracan vs Belgrano Cordoba
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/445.png' group-title='Bóng Đá', [Bóng Đá] 05:15 | Huracan vs Belgrano Cordoba
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSON_xAXqlmVA6CaABNgxtXMaVaFZIg65IPrg&s' group-title='Bóng Rổ', 07:00 - 04/03 | Cleveland Cavaliers vs Detroit Pistons
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png' group-title='Bóng Rổ', 07:00 - 04/03 | Charlotte Hornets vs Dallas Mavericks
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/b/b4/Escudo_del_Club_Atletico_Tucuman.svg' group-title='Bóng Đá', 07:15 - 04/03 | Atletico Tucuman vs Racing Club
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/b/b4/Escudo_del_Club_Atletico_Tucuman.svg' group-title='Bóng Đá', [Bóng Đá] 07:15 | Atletico Tucuman vs Racing Club
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s' group-title='Bóng Đá', 07:30 - 04/03 | Barcelona SC vs Botafogo FR
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s' group-title='Bóng Đá', [Bóng Đá] 07:30 | Barcelona SC vs Botafogo FR
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/d8/Chicago_Bulls_logo.png' group-title='Bóng Rổ', 08:00 - 04/03 | Chicago Bulls vs Oklahoma City Thunder
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='Bóng Rổ', 08:00 - 04/03 | Philadelphia 76ers vs San Antonio Spurs
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/96/Santos_Laguna_logo.svg' group-title='Bóng Đá', 08:00 - 04/03 | Santos Laguna vs Cruz Azul
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/96/Santos_Laguna_logo.svg' group-title='Bóng Đá', [Bóng Đá] 08:00 | Santos Laguna vs Cruz Azul
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2314.png' group-title='Bóng Đá', 10:00 - 04/03 | Atletico San Luis vs Mazatlán
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2314.png' group-title='Bóng Đá', [Bóng Đá] 10:00 | Atletico San Luis vs Mazatlán
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png' group-title='Bóng Rổ', 10:30 - 04/03 | Los Angeles Lakers vs New Orleans Pelicans
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1052px-SacramentoKings.svg.png' group-title='Bóng Rổ', 11:00 - 04/03 | Sacramento Kings vs Phoenix Suns
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='Bóng Đá', 12:00 - 04/03 | Japan W vs Chinese Taipei W
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='Bóng Đá', [Bóng Đá] 12:00 | Japan W vs Chinese Taipei W
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s' group-title='Bóng Rổ', 15:00 - 04/03 | South East Melbourne vs Perth
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15550.png' group-title='Bóng Đá', 15:00 - 04/03 | Macarthur vs Central Coast Mariners
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15550.png' group-title='Bóng Đá', [Bóng Đá] 15:00 | Macarthur vs Central Coast Mariners
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4324.png' group-title='Bóng Đá', 16:30 - 04/03 | Sagamihara vs Thespakusatsu Gunma
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4324.png' group-title='Bóng Đá', [Bóng Đá] 16:30 | Sagamihara vs Thespakusatsu Gunma
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2766.png' group-title='Bóng Đá', 17:00 - 04/03 | FC Seoul vs Vissel Kobe
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2766.png' group-title='Bóng Đá', [Bóng Đá] 17:00 | FC Seoul vs Vissel Kobe
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png' group-title='Bóng Đá', 17:00 - 04/03 | Gamba Osaka vs Ratchaburi
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png' group-title='Bóng Đá', [Bóng Đá] 17:00 | Gamba Osaka vs Ratchaburi
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/6/66/Bilibili_Gaming_logo_%282021%29.png' group-title='Esport', 17:00 - 04/03 | BLG - JDG
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17895.png' group-title='Bóng Đá', 18:00 - 04/03 | Vietnam W vs India W
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17895.png' group-title='Bóng Đá', [Bóng Đá] 18:00 | Vietnam W vs India W
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1009.png' group-title='Bóng Đá', 18:30 - 04/03 | Erzurumspor FK vs Keçiörengücü
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1009.png' group-title='Bóng Đá', [Bóng Đá] 18:30 | Erzurumspor FK vs Keçiörengücü
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2523.png' group-title='Bóng Đá', 19:15 - 04/03 | Johor Darul Takzim FC vs Sanfrecce Hiroshima
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2523.png' group-title='Bóng Đá', [Bóng Đá] 19:15 | Johor Darul Takzim FC vs Sanfrecce Hiroshima
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png' group-title='Khác', 21:00 - 04/03 | Vakifbank	vs	Zeren Spor
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png' group-title='Bóng Đá', 21:00 - 04/03 | Semen Padang vs PSIM Yogyakarta
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png' group-title='Bóng Đá', [Bóng Đá] 21:00 | Semen Padang vs PSIM Yogyakarta
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Cherno_More_Varna.svg/1024px-Cherno_More_Varna.svg.png' group-title='Bóng Đá', 21:00 - 04/03 | Cherno More Varna vs Arda Kardzhali
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Cherno_More_Varna.svg/1024px-Cherno_More_Varna.svg.png' group-title='Bóng Đá', [Bóng Đá] 21:00 | Cherno More Varna vs Arda Kardzhali
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2592.png' group-title='Bóng Đá', 22:30 - 04/03 | Arges Pitesti vs Gloria Bistriţa
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2592.png' group-title='Bóng Đá', [Bóng Đá] 22:30 | Arges Pitesti vs Gloria Bistriţa
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/1608px-CSKA_Sofia_logo.svg.png' group-title='Bóng Đá', 23:30 - 04/03 | CSKA Sofia vs Botev Vratsa
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/1608px-CSKA_Sofia_logo.svg.png' group-title='Bóng Đá', [Bóng Đá] 23:30 | CSKA Sofia vs Botev Vratsa
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/6m34C7xS-zwIwk56d.png' group-title='Khác', 02:00 - 05/03 | Chieri 76	vs	Novara
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/6/66/Bilibili_Gaming_logo_%282021%29.png' group-title='Esport', [Esport] 17:00 | BLG - JDG
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='Khác', [Khác] 19:30 | Liuss vs Tan n
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1u96cOtkJPYxy0vcvQQ48y_OgZC8uWoS62Q&s' group-title='Khác', [Khác] 00:00 | Fenerbahce	vs	Aras Kargo
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png' group-title='Khác', [Khác] 21:00 | Vakifbank	vs	Zeren Spor
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/6m34C7xS-zwIwk56d.png' group-title='Khác', [Khác] 02:00 | Chieri 76	vs	Novara
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='Bóng Rổ', 07:00 - 05/03 | New York Knicks vs Oklahoma City Thunder
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png' group-title='Bóng Rổ', 07:30 - 05/03 | Boston Celtics vs Charlotte Hornets
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='Bóng Rổ', 07:30 - 05/03 | Philadelphia 76ers vs Utah Jazz
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlL_9dDgMuBeYiaw2I5eFhvvNa7eUvr7Z8A&s' group-title='Bóng Rổ', 08:00 - 05/03 | Memphis Grizzlies vs Portland Trail Blazers
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='Bóng Rổ', 09:30 - 05/03 | Milwaukee Bucks vs Atlanta Hawks
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png' group-title='Bóng Rổ', 10:30 - 05/03 | Los Angeles Clippers vs Indiana Pacers
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png' group-title='Bóng Rổ', 15:00 - 05/03 |    	 Melbourne United vs Tasmania JackJumpers
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='Bóng Rổ', 17:00 - 05/03 | Goyang Sono vs Anyang JungKwanJang
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Wonju_DB_Promy.svg/250px-Wonju_DB_Promy.svg.png' group-title='Bóng Rổ', 17:00 - 05/03 | Wonju DB vs KCC Egis
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='Bóng Rổ', 18:35 - 05/03 | Guangzhou vs Shandong
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
