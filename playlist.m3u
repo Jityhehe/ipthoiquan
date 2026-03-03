@@ -243,3 +243,151 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/b/b4/Escudo_del_Club_Atletico_Tucuman.svg' group-title='Bóng Rổ/Bóng Đá', Atletico Tucuman vs Racing Club (SD)
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s' group-title='Bóng Rổ/Bóng Đá', Barcelona SC vs Botafogo FR (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s' group-title='Bóng Rổ/Bóng Đá', Barcelona SC vs Botafogo FR (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s' group-title='Bóng Rổ/Bóng Đá', Barcelona SC vs Botafogo FR (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/96/Santos_Laguna_logo.svg' group-title='Bóng Rổ/Bóng Đá', Santos Laguna vs Cruz Azul (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/96/Santos_Laguna_logo.svg' group-title='Bóng Rổ/Bóng Đá', Santos Laguna vs Cruz Azul (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/96/Santos_Laguna_logo.svg' group-title='Bóng Rổ/Bóng Đá', Santos Laguna vs Cruz Azul (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/93/Pachuca_Tuzos_logo.svg' group-title='Bóng Rổ/Bóng Đá', Pachuca vs Necaxa (FHD)
+https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2314.png' group-title='Bóng Rổ/Bóng Đá', Atletico San Luis vs Mazatlán (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2314.png' group-title='Bóng Rổ/Bóng Đá', Atletico San Luis vs Mazatlán (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2314.png' group-title='Bóng Rổ/Bóng Đá', Atletico San Luis vs Mazatlán (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2286.png' group-title='Bóng Rổ/Bóng Đá', U.N.A.M. - Pumas vs Toluca (FHD)
+https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='Bóng Rổ/Bóng Đá', Japan W vs Chinese Taipei W (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='Bóng Rổ/Bóng Đá', Japan W vs Chinese Taipei W (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='Bóng Rổ/Bóng Đá', Japan W vs Chinese Taipei W (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15550.png' group-title='Bóng Rổ/Bóng Đá', Macarthur vs Central Coast Mariners (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15550.png' group-title='Bóng Rổ/Bóng Đá', Macarthur vs Central Coast Mariners (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15550.png' group-title='Bóng Rổ/Bóng Đá', Macarthur vs Central Coast Mariners (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4324.png' group-title='Bóng Rổ/Bóng Đá', Sagamihara vs Thespakusatsu Gunma (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4324.png' group-title='Bóng Rổ/Bóng Đá', Sagamihara vs Thespakusatsu Gunma (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4324.png' group-title='Bóng Rổ/Bóng Đá', Sagamihara vs Thespakusatsu Gunma (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2766.png' group-title='Bóng Rổ/Bóng Đá', FC Seoul vs Vissel Kobe (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2766.png' group-title='Bóng Rổ/Bóng Đá', FC Seoul vs Vissel Kobe (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2766.png' group-title='Bóng Rổ/Bóng Đá', FC Seoul vs Vissel Kobe (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png' group-title='Bóng Rổ/Bóng Đá', Gamba Osaka vs Ratchaburi (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png' group-title='Bóng Rổ/Bóng Đá', Gamba Osaka vs Ratchaburi (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png' group-title='Bóng Rổ/Bóng Đá', Gamba Osaka vs Ratchaburi (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1009.png' group-title='Bóng Rổ/Bóng Đá', Erzurumspor FK vs Keçiörengücü (Full HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1009.png' group-title='Bóng Rổ/Bóng Đá', Erzurumspor FK vs Keçiörengücü (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1009.png' group-title='Bóng Rổ/Bóng Đá', Erzurumspor FK vs Keçiörengücü (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2523.png' group-title='Bóng Rổ/Bóng Đá', Johor Darul Takzim FC vs Sanfrecce Hiroshima (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2523.png' group-title='Bóng Rổ/Bóng Đá', Johor Darul Takzim FC vs Sanfrecce Hiroshima (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2523.png' group-title='Bóng Rổ/Bóng Đá', Johor Darul Takzim FC vs Sanfrecce Hiroshima (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png' group-title='Bóng Rổ/Bóng Đá', Semen Padang vs PSIM Yogyakarta (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png' group-title='Bóng Rổ/Bóng Đá', Semen Padang vs PSIM Yogyakarta (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png' group-title='Bóng Rổ/Bóng Đá', Semen Padang vs PSIM Yogyakarta (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Cherno_More_Varna.svg/1024px-Cherno_More_Varna.svg.png' group-title='Bóng Rổ/Bóng Đá', Cherno More Varna vs Arda Kardzhali (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Cherno_More_Varna.svg/1024px-Cherno_More_Varna.svg.png' group-title='Bóng Rổ/Bóng Đá', Cherno More Varna vs Arda Kardzhali (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Cherno_More_Varna.svg/1024px-Cherno_More_Varna.svg.png' group-title='Bóng Rổ/Bóng Đá', Cherno More Varna vs Arda Kardzhali (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2592.png' group-title='Bóng Rổ/Bóng Đá', Arges Pitesti vs Gloria Bistriţa (Full HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2592.png' group-title='Bóng Rổ/Bóng Đá', Arges Pitesti vs Gloria Bistriţa (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2592.png' group-title='Bóng Rổ/Bóng Đá', Arges Pitesti vs Gloria Bistriţa (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/1608px-CSKA_Sofia_logo.svg.png' group-title='Bóng Rổ/Bóng Đá', CSKA Sofia vs Botev Vratsa (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/1608px-CSKA_Sofia_logo.svg.png' group-title='Bóng Rổ/Bóng Đá', CSKA Sofia vs Botev Vratsa (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/1608px-CSKA_Sofia_logo.svg.png' group-title='Bóng Rổ/Bóng Đá', CSKA Sofia vs Botev Vratsa (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='Bóng Rổ/Bóng Đá', New York Knicks vs Oklahoma City Thunder (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='Bóng Rổ/Bóng Đá', New York Knicks vs Oklahoma City Thunder (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='Bóng Rổ/Bóng Đá', New York Knicks vs Oklahoma City Thunder (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png' group-title='Bóng Rổ/Bóng Đá', Boston Celtics vs Charlotte Hornets (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png' group-title='Bóng Rổ/Bóng Đá', Boston Celtics vs Charlotte Hornets (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png' group-title='Bóng Rổ/Bóng Đá', Boston Celtics vs Charlotte Hornets (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='Bóng Rổ/Bóng Đá', Philadelphia 76ers vs Utah Jazz (Full HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='Bóng Rổ/Bóng Đá', Philadelphia 76ers vs Utah Jazz (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='Bóng Rổ/Bóng Đá', Philadelphia 76ers vs Utah Jazz (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlL_9dDgMuBeYiaw2I5eFhvvNa7eUvr7Z8A&s' group-title='Bóng Rổ/Bóng Đá', Memphis Grizzlies vs Portland Trail Blazers (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlL_9dDgMuBeYiaw2I5eFhvvNa7eUvr7Z8A&s' group-title='Bóng Rổ/Bóng Đá', Memphis Grizzlies vs Portland Trail Blazers (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlL_9dDgMuBeYiaw2I5eFhvvNa7eUvr7Z8A&s' group-title='Bóng Rổ/Bóng Đá', Memphis Grizzlies vs Portland Trail Blazers (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='Bóng Rổ/Bóng Đá', Milwaukee Bucks vs Atlanta Hawks (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='Bóng Rổ/Bóng Đá', Milwaukee Bucks vs Atlanta Hawks (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='Bóng Rổ/Bóng Đá', Milwaukee Bucks vs Atlanta Hawks (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png' group-title='Bóng Rổ/Bóng Đá', Los Angeles Clippers vs Indiana Pacers (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png' group-title='Bóng Rổ/Bóng Đá', Los Angeles Clippers vs Indiana Pacers (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png' group-title='Bóng Rổ/Bóng Đá', Los Angeles Clippers vs Indiana Pacers (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png' group-title='Bóng Rổ/Bóng Đá',    	 Melbourne United vs Tasmania JackJumpers (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png' group-title='Bóng Rổ/Bóng Đá',    	 Melbourne United vs Tasmania JackJumpers (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png' group-title='Bóng Rổ/Bóng Đá',    	 Melbourne United vs Tasmania JackJumpers (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='Bóng Rổ/Bóng Đá', Goyang Sono vs Anyang JungKwanJang (Full HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='Bóng Rổ/Bóng Đá', Goyang Sono vs Anyang JungKwanJang (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='Bóng Rổ/Bóng Đá', Goyang Sono vs Anyang JungKwanJang (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Wonju_DB_Promy.svg/250px-Wonju_DB_Promy.svg.png' group-title='Bóng Rổ/Bóng Đá', Wonju DB vs KCC Egis (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Wonju_DB_Promy.svg/250px-Wonju_DB_Promy.svg.png' group-title='Bóng Rổ/Bóng Đá', Wonju DB vs KCC Egis (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Wonju_DB_Promy.svg/250px-Wonju_DB_Promy.svg.png' group-title='Bóng Rổ/Bóng Đá', Wonju DB vs KCC Egis (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='Bóng Rổ/Bóng Đá', Guangzhou vs Shandong (FULL HD)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='Bóng Rổ/Bóng Đá', Guangzhou vs Shandong (HD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='Bóng Rổ/Bóng Đá', Guangzhou vs Shandong (SD)
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
