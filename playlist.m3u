@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/6/66/Bilibili_Gaming_logo_%282021%29.png' group-title='HoiQuanTV Full HD', 17:00 - 04/03 | BLG - JDG
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17895.png' group-title='HoiQuanTV Full HD', 18:00 - 04/03 | Vietnam W vs India W
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg' group-title='HoiQuanTV Full HD', 18:00 - 04/03 | Dương Quốc Hoàng vs Patric Jay Gonzales
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1009.png' group-title='HoiQuanTV Full HD', 18:30 - 04/03 | Erzurumspor FK vs Keçiörengücü
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 18:50 - 04/03 | All England Mở rộng ( Sân 3 )
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2523.png' group-title='HoiQuanTV Full HD', 19:15 - 04/03 | Johor Darul Takzim FC vs Sanfrecce Hiroshima
@@ -29,8 +21,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png' group-title='HoiQuanTV Full HD', 01:00 - 05/03 | Rayo Vallecano vs Oviedo
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/6m34C7xS-zwIwk56d.png' group-title='HoiQuanTV Full HD', 02:00 - 05/03 | Chieri 76	vs	Novara
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png' group-title='HoiQuanTV Full HD', 02:30 - 05/03 | Aston Villa vs Chelsea
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/51.png' group-title='HoiQuanTV Full HD', 02:30 - 05/03 | Brighton vs Arsenal
@@ -43,6 +33,8 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/34.png' group-title='HoiQuanTV Full HD', 03:15 - 05/03 | Newcastle vs Manchester United
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzstp2VuHC_iVQ9pKmRuNMd8EHxGO-KtJgkQ&s' group-title='HoiQuanTV Full HD', 05:30 - 05/03 | Matteo Berrettini vs Adrian Mannarino
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='HoiQuanTV Full HD', 07:00 - 05/03 | New York Knicks vs Oklahoma City Thunder
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Escudo_del_Club_Lan%C3%BAs.png/250px-Escudo_del_Club_Lan%C3%BAs.png' group-title='HoiQuanTV Full HD', 07:00 - 05/03 | Lanus vs Boca Juniors
@@ -55,6 +47,8 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3656.png' group-title='HoiQuanTV Full HD', 09:00 - 05/03 | Antigua GFC vs Achuapa
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://www.atptour.com/-/media/images/news/2025/08/26/23/08/svajda-cincinnati-2024-serve.jpg' group-title='HoiQuanTV Full HD', 09:00 - 05/03 | Zachary Svajda vs Marin Cillic	
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='HoiQuanTV Full HD', 09:30 - 05/03 | Milwaukee Bucks vs Atlanta Hawks
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17892.png' group-title='HoiQuanTV Full HD', 10:00 - 05/03 | Philippines W vs South Korea W
@@ -63,6 +57,8 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png' group-title='HoiQuanTV Full HD', 10:30 - 05/03 | Los Angeles Clippers vs Indiana Pacers
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/1/13/Tsitsipas_S._MCM22_%2820%29_%2852036915350%29.jpg' group-title='HoiQuanTV Full HD', 10:30 - 05/03 | Stafanos Tsitsipas vs Denis Shapovalov	
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png' group-title='HoiQuanTV Full HD', 15:00 - 05/03 |    	 Melbourne United vs Tasmania JackJumpers
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/16932.png' group-title='HoiQuanTV Full HD', 16:00 - 05/03 | Iran W vs Australia W
