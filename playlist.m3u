@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 23:15 - 04/03 | All England Mở rộng ( Sân 1 )
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/1608px-CSKA_Sofia_logo.svg.png' group-title='HoiQuanTV Full HD', 23:30 - 04/03 | CSKA Sofia vs Botev Vratsa
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/da/BesiktasJK-Logo.svg' group-title='HoiQuanTV Full HD', 00:30 - 05/03 | Beşiktaş vs Rizespor
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png' group-title='HoiQuanTV Full HD', 01:00 - 05/03 | Rayo Vallecano vs Oviedo
