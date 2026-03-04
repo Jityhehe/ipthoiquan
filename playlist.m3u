@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/81.png' group-title='HoiQuanTV Full HD', 03:00 - 05/03 | Marseille vs Toulouse
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/34.png' group-title='HoiQuanTV Full HD', 03:15 - 05/03 | Newcastle vs Manchester United
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/34.png' group-title='HoiQuanTV Full HD', 03:15 - 05/03 | Newcastle vs Manchester United
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzstp2VuHC_iVQ9pKmRuNMd8EHxGO-KtJgkQ&s' group-title='HoiQuanTV Full HD', 05:30 - 05/03 | Matteo Berrettini vs Adrian Mannarino
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='HoiQuanTV Full HD', 07:00 - 05/03 | New York Knicks vs Oklahoma City Thunder
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Escudo_del_Club_Lan%C3%BAs.png/250px-Escudo_del_Club_Lan%C3%BAs.png' group-title='HoiQuanTV Full HD', 07:00 - 05/03 | Lanus vs Boca Juniors
