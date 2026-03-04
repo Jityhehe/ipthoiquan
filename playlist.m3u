@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2314.png' group-title='HoiQuanTV Full HD', 10:00 - 04/03 | Atletico San Luis vs Mazatlán
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png' group-title='HoiQuanTV Full HD', 10:30 - 04/03 | Los Angeles Lakers vs New Orleans Pelicans
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1052px-SacramentoKings.svg.png' group-title='HoiQuanTV Full HD', 11:00 - 04/03 | Sacramento Kings vs Phoenix Suns
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg' group-title='HoiQuanTV Full HD', 11:00 - 04/03 | Pattayya
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='HoiQuanTV Full HD', 12:00 - 04/03 | Japan W vs Chinese Taipei W
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s' group-title='HoiQuanTV Full HD', 15:00 - 04/03 | South East Melbourne vs Perth
