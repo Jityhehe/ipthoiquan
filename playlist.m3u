@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2766.png' group-title='HoiQuanTV Full HD', 17:00 - 04/03 | FC Seoul vs Vissel Kobe
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/6/66/Bilibili_Gaming_logo_%282021%29.png' group-title='HoiQuanTV Full HD', 17:00 - 04/03 | BLG - JDG
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17895.png' group-title='HoiQuanTV Full HD', 18:00 - 04/03 | Vietnam W vs India W
