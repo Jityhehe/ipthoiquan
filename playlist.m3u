@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSON_xAXqlmVA6CaABNgxtXMaVaFZIg65IPrg&s' group-title='HoiQuanTV Full HD', 07:00 - 04/03 | Cleveland Cavaliers vs Detroit Pistons
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png' group-title='HoiQuanTV Full HD', 07:00 - 04/03 | Charlotte Hornets vs Dallas Mavericks
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s' group-title='HoiQuanTV Full HD', 07:30 - 04/03 | Barcelona SC vs Botafogo FR
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/d8/Chicago_Bulls_logo.png' group-title='HoiQuanTV Full HD', 08:00 - 04/03 | Chicago Bulls vs Oklahoma City Thunder
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='HoiQuanTV Full HD', 08:00 - 04/03 | Philadelphia 76ers vs San Antonio Spurs
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/96/Santos_Laguna_logo.svg' group-title='HoiQuanTV Full HD', 08:00 - 04/03 | Santos Laguna vs Cruz Azul
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2314.png' group-title='HoiQuanTV Full HD', 10:00 - 04/03 | Atletico San Luis vs Mazatlán
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png' group-title='HoiQuanTV Full HD', 10:30 - 04/03 | Los Angeles Lakers vs New Orleans Pelicans
