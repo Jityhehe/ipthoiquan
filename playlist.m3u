@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1052px-SacramentoKings.svg.png' group-title='HoiQuanTV Full HD', 11:00 - 04/03 | Sacramento Kings vs Phoenix Suns
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='HoiQuanTV Full HD', 12:00 - 04/03 | Japan W vs Chinese Taipei W
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s' group-title='HoiQuanTV Full HD', 15:00 - 04/03 | South East Melbourne vs Perth
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15550.png' group-title='HoiQuanTV Full HD', 15:00 - 04/03 | Macarthur vs Central Coast Mariners
@@ -120,4 +116,10 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png' group-title='HoiQuanTV Full HD', 08:00 - 06/03 | San Antonio Spurs vs Detroit Pistons
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png' group-title='HoiQuanTV Full HD', 10:00 - 06/03 | Denver Nuggets vs Los Angeles Lakers
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1052px-SacramentoKings.svg.png' group-title='HoiQuanTV Full HD', 10:00 - 06/03 | Sacramento Kings vs New Orleans Pelicans
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNVc0LgpWlb7i7oZtkRB2dy-3ViF5SvO8yA&s' group-title='HoiQuanTV Full HD', 17:00 - 06/03 | LG Sakers vs Mobis Phoebus
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Busan_KT_Sonicboom.svg/250px-Busan_KT_Sonicboom.svg.png' group-title='HoiQuanTV Full HD', 17:00 - 06/03 | Suwon KT vs Seoul Knights
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
