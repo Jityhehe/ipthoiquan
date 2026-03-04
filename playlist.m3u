@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png' group-title='HoiQuanTV Full HD', 10:30 - 04/03 | Los Angeles Lakers vs New Orleans Pelicans
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1052px-SacramentoKings.svg.png' group-title='HoiQuanTV Full HD', 11:00 - 04/03 | Sacramento Kings vs Phoenix Suns
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='HoiQuanTV Full HD', 12:00 - 04/03 | Japan W vs Chinese Taipei W
@@ -9,6 +7,8 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15550.png' group-title='HoiQuanTV Full HD', 15:00 - 04/03 | Macarthur vs Central Coast Mariners
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://cdn2.tuoitre.vn/zoom/700_525/471584752817336320/2024/5/6/duong-quoc-hoang-scottish-open-billiards-17149527590191758456651-147-0-951-1536-crop-1714952863893957701699.jpg' group-title='HoiQuanTV Full HD', 15:00 - 04/03 | Dương Quốc Hoàng vs Tay cơ 2
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4324.png' group-title='HoiQuanTV Full HD', 16:30 - 04/03 | Sagamihara vs Thespakusatsu Gunma
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2766.png' group-title='HoiQuanTV Full HD', 17:00 - 04/03 | FC Seoul vs Vissel Kobe
@@ -35,22 +35,52 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/1608px-CSKA_Sofia_logo.svg.png' group-title='HoiQuanTV Full HD', 23:30 - 04/03 | CSKA Sofia vs Botev Vratsa
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/7406.png' group-title='HoiQuanTV Full HD', 00:30 - 05/03 | Beyoğlu Yeni Çarşı vs Kocaelispor
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/da/BesiktasJK-Logo.svg' group-title='HoiQuanTV Full HD', 00:30 - 05/03 | Beşiktaş vs Rizespor
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/1/1a/GFK-Official-Logo.png' group-title='HoiQuanTV Full HD', 00:30 - 05/03 | Gaziantep FK vs Fenerbahçe
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png' group-title='HoiQuanTV Full HD', 01:00 - 05/03 | Rayo Vallecano vs Oviedo
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/6m34C7xS-zwIwk56d.png' group-title='HoiQuanTV Full HD', 02:00 - 05/03 | Chieri 76	vs	Novara
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png' group-title='HoiQuanTV Full HD', 02:30 - 05/03 | Aston Villa vs Chelsea
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/51.png' group-title='HoiQuanTV Full HD', 02:30 - 05/03 | Brighton vs Arsenal
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg' group-title='HoiQuanTV Full HD', 02:30 - 05/03 | Manchester City vs Nottingham Forest
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/81.png' group-title='HoiQuanTV Full HD', 03:00 - 05/03 | Marseille vs Toulouse
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/34.png' group-title='HoiQuanTV Full HD', 03:15 - 05/03 | Newcastle vs Manchester United
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/34.png' group-title='HoiQuanTV Full HD', 03:15 - 05/03 | Newcastle vs Manchester United
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='HoiQuanTV Full HD', 07:00 - 05/03 | New York Knicks vs Oklahoma City Thunder
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Escudo_del_Club_Lan%C3%BAs.png/250px-Escudo_del_Club_Lan%C3%BAs.png' group-title='HoiQuanTV Full HD', 07:00 - 05/03 | Lanus vs Boca Juniors
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png' group-title='HoiQuanTV Full HD', 07:30 - 05/03 | Boston Celtics vs Charlotte Hornets
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='HoiQuanTV Full HD', 07:30 - 05/03 | Philadelphia 76ers vs Utah Jazz
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlL_9dDgMuBeYiaw2I5eFhvvNa7eUvr7Z8A&s' group-title='HoiQuanTV Full HD', 08:00 - 05/03 | Memphis Grizzlies vs Portland Trail Blazers
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3656.png' group-title='HoiQuanTV Full HD', 09:00 - 05/03 | Antigua GFC vs Achuapa
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='HoiQuanTV Full HD', 09:30 - 05/03 | Milwaukee Bucks vs Atlanta Hawks
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17892.png' group-title='HoiQuanTV Full HD', 10:00 - 05/03 | Philippines W vs South Korea W
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/d2/F%C3%BAtbol_Club_Atlas.svg' group-title='HoiQuanTV Full HD', 10:00 - 05/03 | Atlas vs Club Tijuana
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png' group-title='HoiQuanTV Full HD', 10:30 - 05/03 | Los Angeles Clippers vs Indiana Pacers
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png' group-title='HoiQuanTV Full HD', 15:00 - 05/03 |    	 Melbourne United vs Tasmania JackJumpers
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/16932.png' group-title='HoiQuanTV Full HD', 16:00 - 05/03 | Iran W vs Australia W
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Goyang Sono vs Anyang JungKwanJang
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Wonju_DB_Promy.svg/250px-Wonju_DB_Promy.svg.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Wonju DB vs KCC Egis
@@ -59,5 +89,35 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/9b/Sakaiblazers.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Osaka Sakai vs Suntory Sunbirds	
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1416.png' group-title='HoiQuanTV Full HD', 18:15 - 05/03 | Lokomotiv Sofia vs Dobrudzha
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='HoiQuanTV Full HD', 18:35 - 05/03 | Guangzhou vs Shandong
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a3/Bangkok_United%2C_2018.png' group-title='HoiQuanTV Full HD', 19:15 - 05/03 | Bangkok United vs Tampines Rovers
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/11132.png' group-title='HoiQuanTV Full HD', 20:30 - 05/03 | Persijap vs Persis Solo
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Persik_Kediri_logo.svg/1200px-Persik_Kediri_logo.svg.png' group-title='HoiQuanTV Full HD', 20:30 - 05/03 | Persik Kediri vs PSBS Biak Numfor
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3628.png' group-title='HoiQuanTV Full HD', 20:30 - 05/03 | Metalist 1925 Kharkiv vs Lokomotiv Kyiv
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png' group-title='HoiQuanTV Full HD', 23:30 - 05/03 | Ludogorets vs Levski Sofia
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4358.png' group-title='HoiQuanTV Full HD', 23:30 - 05/03 | Aluminij vs Celje
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/zPhuZDil-4O6TfMXl.png' group-title='HoiQuanTV Full HD', 00:45 - 06/03 | Fenerbahce vs Monaco
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png' group-title='HoiQuanTV Full HD', 02:30 - 06/03 | Olimpia Milano vs Barcelona
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/UFmsOtyB-0xo9H7fm.png' group-title='HoiQuanTV Full HD', 02:30 - 06/03 | Valencia vs Zalgiris Kaunas
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/c/c7/Logo_Real_Madrid.svg/839px-Logo_Real_Madrid.svg.png' group-title='HoiQuanTV Full HD', 02:45 - 06/03 | Real Madrid vs Virtus Bologna
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1200px-Orlando_Magic_logo.svg.png' group-title='HoiQuanTV Full HD', 07:00 - 06/03 | Orlando Magic vs Dallas Mavericks
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg' group-title='HoiQuanTV Full HD', 07:30 - 06/03 | Houston Rockets vs Golden State Warriors
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png' group-title='HoiQuanTV Full HD', 08:00 - 06/03 | San Antonio Spurs vs Detroit Pistons
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png' group-title='HoiQuanTV Full HD', 10:00 - 06/03 | Denver Nuggets vs Los Angeles Lakers
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
