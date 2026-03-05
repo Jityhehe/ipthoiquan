@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png' group-title='HoiQuanTV Full HD', 15:00 - 05/03 |    	 Melbourne United vs Tasmania JackJumpers
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/16932.png' group-title='HoiQuanTV Full HD', 16:00 - 05/03 | Iran W vs Australia W
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmWYY3msUOjANQIgxPdY9flLChBzSydAw3g&s' group-title='HoiQuanTV Full HD', 16:00 - 05/03 | Lpl
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Goyang Sono vs Anyang JungKwanJang
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Wonju_DB_Promy.svg/250px-Wonju_DB_Promy.svg.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Wonju DB vs KCC Egis
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueKDJv_sVCqyatupr4zbEkjIDRFsCTaRJvg&s' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Huyndai Hillstate vs Hungkuk Pink Spider	
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/9b/Sakaiblazers.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Osaka Sakai vs Suntory Sunbirds	
