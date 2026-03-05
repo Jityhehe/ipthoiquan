@@ -7,8 +7,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/2048px-Logo_Antalyaspor.svg.png' group-title='HoiQuanTV Full HD', 00:30 - 06/03 | Antalyaspor vs Samsunspor
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Al_Kholood_Club_Logo.svg/1200px-Al_Kholood_Club_Logo.svg.png' group-title='HoiQuanTV Full HD', 02:00 - 06/03 | Al Kholood vs Al-Qadisiyah FC
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/47.png' group-title='HoiQuanTV Full HD', 03:00 - 06/03 | Tottenham vs Crystal Palace
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png' group-title='HoiQuanTV Full HD', 03:10 - 06/03 | Lyon vs Lens
@@ -31,5 +29,3 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/5/52/PFC_Slavia_Sofia.svg/1014px-PFC_Slavia_Sofia.svg.png' group-title='HoiQuanTV Full HD', 23:00 - 06/03 | Slavia Sofia vs Spartak Varna
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/538.png' group-title='HoiQuanTV Full HD', 03:00 - 13/03 | Celta Vigo vs Lyon
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
