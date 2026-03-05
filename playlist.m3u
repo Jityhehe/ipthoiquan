@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 22:00 - 05/03 | All England Mở rộng ( Sân 2 )
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/2048px-Logo_Antalyaspor.svg.png' group-title='HoiQuanTV Full HD', 00:30 - 06/03 | Antalyaspor vs Samsunspor
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7a/Damac_F.C._logo.png' group-title='HoiQuanTV Full HD', 02:00 - 06/03 | Damac vs Al Riyadh
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/47.png' group-title='HoiQuanTV Full HD', 03:00 - 06/03 | Tottenham vs Crystal Palace
