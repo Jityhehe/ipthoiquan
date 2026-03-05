@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3656.png' group-title='HoiQuanTV Full HD', 09:00 - 05/03 | Antigua GFC vs Achuapa
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='HoiQuanTV Full HD', 09:30 - 05/03 | Milwaukee Bucks vs Atlanta Hawks
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17892.png' group-title='HoiQuanTV Full HD', 10:00 - 05/03 | Philippines W vs South Korea W
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/d2/F%C3%BAtbol_Club_Atlas.svg' group-title='HoiQuanTV Full HD', 10:00 - 05/03 | Atlas vs Club Tijuana
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png' group-title='HoiQuanTV Full HD', 10:30 - 05/03 | Los Angeles Clippers vs Indiana Pacers
