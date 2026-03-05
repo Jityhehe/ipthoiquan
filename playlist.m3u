@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/47.png' group-title='HoiQuanTV Full HD', 03:00 - 06/03 | Tottenham vs Crystal Palace
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png' group-title='HoiQuanTV Full HD', 03:10 - 06/03 | Lyon vs Lens
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2562.png' group-title='HoiQuanTV Full HD', 07:30 - 06/03 | Cienciano vs FBC Melgar
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/16945.png' group-title='HoiQuanTV Full HD', 15:00 - 06/03 | Uzbekistan W vs China W
