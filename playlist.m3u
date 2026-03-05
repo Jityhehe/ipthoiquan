@@ -11,6 +11,8 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/9b/Sakaiblazers.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Osaka Sakai vs Suntory Sunbirds	
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | All England Mở rộng ( Sân 4 )
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1416.png' group-title='HoiQuanTV Full HD', 18:15 - 05/03 | Lokomotiv Sofia vs Dobrudzha
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='HoiQuanTV Full HD', 18:35 - 05/03 | Guangzhou vs Shandong
@@ -23,6 +25,8 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3628.png' group-title='HoiQuanTV Full HD', 20:30 - 05/03 | Metalist 1925 Kharkiv vs Lokomotiv Kyiv
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 22:00 - 05/03 | All England Mở rộng ( Sân 2 )
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png' group-title='HoiQuanTV Full HD', 23:30 - 05/03 | Ludogorets vs Levski Sofia
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4358.png' group-title='HoiQuanTV Full HD', 23:30 - 05/03 | Aluminij vs Celje
