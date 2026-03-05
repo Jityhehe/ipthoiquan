@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png' group-title='HoiQuanTV Full HD', 15:00 - 05/03 |    	 Melbourne United vs Tasmania JackJumpers
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmWYY3msUOjANQIgxPdY9flLChBzSydAw3g&s' group-title='HoiQuanTV Full HD', 16:00 - 05/03 | Lpl
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Goyang Sono vs Anyang JungKwanJang
@@ -19,8 +17,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Persik_Kediri_logo.svg/1200px-Persik_Kediri_logo.svg.png' group-title='HoiQuanTV Full HD', 20:30 - 05/03 | Persik Kediri vs PSBS Biak Numfor
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3628.png' group-title='HoiQuanTV Full HD', 20:30 - 05/03 | Metalist 1925 Kharkiv vs Lokomotiv Kyiv
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 22:00 - 05/03 | All England Mở rộng ( Sân 2 )
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png' group-title='HoiQuanTV Full HD', 23:30 - 05/03 | Ludogorets vs Levski Sofia
