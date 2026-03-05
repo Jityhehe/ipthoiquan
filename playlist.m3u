@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='HoiQuanTV Full HD', 09:30 - 05/03 | Milwaukee Bucks vs Atlanta Hawks
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/d2/F%C3%BAtbol_Club_Atlas.svg' group-title='HoiQuanTV Full HD', 10:00 - 05/03 | Atlas vs Club Tijuana
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png' group-title='HoiQuanTV Full HD', 10:30 - 05/03 | Los Angeles Clippers vs Indiana Pacers
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/1/13/Tsitsipas_S._MCM22_%2820%29_%2852036915350%29.jpg' group-title='HoiQuanTV Full HD', 10:30 - 05/03 | Stafanos Tsitsipas vs Denis Shapovalov	
@@ -14,7 +10,7 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Goyang Sono vs Anyang JungKwanJang
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Wonju_DB_Promy.svg/250px-Wonju_DB_Promy.svg.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Wonju DB vs KCC Egis
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueKDJv_sVCqyatupr4zbEkjIDRFsCTaRJvg&s' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Huyndai Hillstate vs Hungkuk Pink Spider	
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/9b/Sakaiblazers.png' group-title='HoiQuanTV Full HD', 17:00 - 05/03 | Osaka Sakai vs Suntory Sunbirds	
