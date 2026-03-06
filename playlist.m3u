@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 00:00 - 07/03 | All England Mở rộng ( Sân 1 )
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/174.png' group-title='HoiQuanTV Full HD', 00:30 - 07/03 | FC Schalke 04 vs Arminia Bielefeld
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='HoiQuanTV Full HD', 02:30 - 07/03 | Bayern München vs Borussia Mönchengladbach
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg' group-title='HoiQuanTV Full HD', 02:45 - 07/03 | Napoli vs Torino
