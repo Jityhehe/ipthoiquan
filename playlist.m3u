@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaynMw1lJOl1hU7wpcWGXGahjFbtj8Iid7Q&s' group-title='HoiQuanTV Full HD', 16:00 - 06/03 | Long An vs Xuan Thien Phu Tho
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png' group-title='HoiQuanTV Full HD', 18:00 - 06/03 | Thanh Hóa vs Hồng Lĩnh Hà Tĩnh
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png' group-title='HoiQuanTV Full HD', 18:00 - 06/03 | All England Mở rộng ( Sân 1 )
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15516.png' group-title='HoiQuanTV Full HD', 18:30 - 06/03 | ATK Mohun Bagan vs Odisha
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/5648.png' group-title='HoiQuanTV Full HD', 18:35 - 06/03 | Chengdu Better City vs Sichuan Jiuniu
