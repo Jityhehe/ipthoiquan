@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1615.png' group-title='HoiQuanTV Full HD', 04:30 - 08/03 | DC United vs Inter Miami
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/24608.png' group-title='HoiQuanTV Full HD', 09:00 - 08/03 | Auckland vs Perth Glory
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/9166.png' group-title='HoiQuanTV Full HD', 18:00 - 08/03 | Pho Hien vs Nam Dinh
