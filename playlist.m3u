@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/b/b5/Club_Necaxa_Logo.svg' group-title='HoiQuanTV Full HD', 10:00 - 07/03 | Necaxa vs U.N.A.M. - Pumas
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg' group-title='HoiQuanTV Full HD', 12:00 - 07/03 | FC Tokyo vs Yokohama F. Marinos
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17886.png' group-title='HoiQuanTV Full HD', 12:00 - 07/03 | Chinese Taipei W vs Vietnam W
