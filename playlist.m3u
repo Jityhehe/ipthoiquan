@@ -1,22 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/192.png' group-title='HoiQuanTV Full HD', 00:30 - 08/03 | 1. FC Köln vs Borussia Dortmund
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg' group-title='HoiQuanTV Full HD', 00:30 - 08/03 | Atletico Madrid vs Real Sociedad
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0d/Wrexham_A.F.C._Logo.svg' group-title='HoiQuanTV Full HD', 00:45 - 08/03 | Wrexham vs Chelsea
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2939.png' group-title='HoiQuanTV Full HD', 02:00 - 08/03 | Al-Nassr vs NEOM
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/34.png' group-title='HoiQuanTV Full HD', 03:00 - 08/03 | Newcastle vs Manchester City
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1615.png' group-title='HoiQuanTV Full HD', 04:30 - 08/03 | DC United vs Inter Miami
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/24608.png' group-title='HoiQuanTV Full HD', 09:00 - 08/03 | Auckland vs Perth Glory
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2768.png' group-title='HoiQuanTV Full HD', 12:00 - 08/03 | Gimcheon Sangmu FC vs Jeonbuk Motors
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png' group-title='HoiQuanTV Full HD', 13:00 - 08/03 | Gamba Osaka vs V-Varen Nagasaki
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/9164.png' group-title='HoiQuanTV Full HD', 16:00 - 08/03 | Dong Thap vs Bắc Ninh
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/9166.png' group-title='HoiQuanTV Full HD', 18:00 - 08/03 | Pho Hien vs Nam Dinh
@@ -25,11 +17,9 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg' group-title='HoiQuanTV Full HD', 20:00 - 08/03 | Villarreal vs Elche
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1351.png' group-title='HoiQuanTV Full HD', 20:30 - 08/03 | Port Vale vs Sunderland
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/186.png' group-title='HoiQuanTV Full HD', 21:30 - 08/03 | FC St. Pauli vs Eintracht Frankfurt
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7f/Getafe_logo.png' group-title='HoiQuanTV Full HD', 22:15 - 08/03 | Getafe vs Real Betis
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg' group-title='HoiQuanTV Full HD', 23:15 - 08/03 | Lille vs Lorient
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/63.png' group-title='HoiQuanTV Full HD', 23:30 - 08/03 | Leeds vs Norwich
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
