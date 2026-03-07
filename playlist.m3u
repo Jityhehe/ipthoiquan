@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1374.png' group-title='HoiQuanTV Full HD', 19:15 - 07/03 | Mansfield Town vs Arsenal
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png' group-title='HoiQuanTV Full HD', 21:30 - 07/03 | SC Freiburg vs Bayer Leverkusen
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/d6/VEREINFACHTES_LOGO_-_RB_Leipzig.svg' group-title='HoiQuanTV Full HD', 21:30 - 07/03 | RB Leipzig vs FC Augsburg
