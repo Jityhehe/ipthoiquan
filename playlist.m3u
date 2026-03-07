@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/b/bd/SLNA_FC_2022.svg' group-title='HoiQuanTV Full HD', 18:00 - 07/03 | SLNA vs Hải Phòng
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png' group-title='HoiQuanTV Full HD', 18:00 - 07/03 | Phu Dong vs Da Nang
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1374.png' group-title='HoiQuanTV Full HD', 19:15 - 07/03 | Mansfield Town vs Arsenal
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png' group-title='HoiQuanTV Full HD', 21:30 - 07/03 | SC Freiburg vs Bayer Leverkusen
