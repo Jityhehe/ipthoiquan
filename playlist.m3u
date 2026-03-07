@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0d/Wrexham_A.F.C._Logo.svg' group-title='HoiQuanTV Full HD', 00:45 - 08/03 | Wrexham vs Chelsea
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2939.png' group-title='HoiQuanTV Full HD', 02:00 - 08/03 | Al-Nassr vs NEOM
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1615.png' group-title='HoiQuanTV Full HD', 04:30 - 08/03 | DC United vs Inter Miami
