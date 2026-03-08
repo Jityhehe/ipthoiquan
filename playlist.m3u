@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/24608.png' group-title='HoiQuanTV Full HD', 09:00 - 08/03 | Auckland vs Perth Glory
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/9166.png' group-title='HoiQuanTV Full HD', 18:00 - 08/03 | Pho Hien vs Nam Dinh
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/8/8d/Fulham_FC.png' group-title='HoiQuanTV Full HD', 19:00 - 08/03 | Fulham vs Southampton
