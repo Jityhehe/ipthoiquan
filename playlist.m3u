@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/186.png' group-title='HoiQuanTV Full HD', 21:30 - 08/03 | FC St. Pauli vs Eintracht Frankfurt
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7f/Getafe_logo.png' group-title='HoiQuanTV Full HD', 22:15 - 08/03 | Getafe vs Real Betis
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/4/4e/Genoa_cfc.png' group-title='HoiQuanTV Full HD', 00:00 - 09/03 | Genoa vs AS Roma
