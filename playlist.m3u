@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/962px-Club_Tijuana_logo.svg.png' group-title='HoiQuanTV Full HD', 10:06 - 09/03 | Club Tijuana vs Santos Laguna
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ey%C3%BCpspor_Logosu.png/250px-Ey%C3%BCpspor_Logosu.png' group-title='HoiQuanTV Full HD', 20:00 - 09/03 | Eyupspor vs Kocaelispor
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/5/51/PFC_Levski_Sofia.svg/1200px-PFC_Levski_Sofia.svg.png' group-title='HoiQuanTV Full HD', 23:00 - 09/03 | Levski Sofia vs Lokomotiv Plovdiv
