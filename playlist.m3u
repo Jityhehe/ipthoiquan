@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png' group-title='Bóng Đá', 00:45 [Bóng Đá] Galatasaray vs Liverpool
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png' group-title='Bóng Đá', 00:45 [Bóng Đá] Galatasaray vs Liverpool
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png' group-title='Bóng Đá', 03:00 [Bóng Đá] Atalanta vs Bayern München
 https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg' group-title='Bóng Đá', 03:00 [Bóng Đá] Atletico Madrid vs Tottenham
