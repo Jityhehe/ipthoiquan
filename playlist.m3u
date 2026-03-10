@@ -1,5 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png' group-title='HoiQuanTV Full HD', 00:45 - 11/03 | Galatasaray vs Liverpool
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='Bóng Đá', 16:00 [Bóng Đá] Japan W vs Vietnam W
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png' group-title='Bóng Đá', 17:00 [Bóng Đá] Machida Zelvia vs Gangwon FC
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png' group-title='Bóng Đá', 19:15 [Bóng Đá] Buriram United vs Melbourne City
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Bhayangkara_FC_logo.svg/960px-Bhayangkara_FC_logo.svg.png' group-title='Bóng Đá', 20:30 [Bóng Đá] Bhayangkara FC vs Arema FC
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1018.png' group-title='Bóng Đá', 22:30 [Bóng Đá] NK Slaven Belupo vs NK Lokomotiva Zagreb
+https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3597.png' group-title='Bóng Đá', 00:00 [Bóng Đá]  Manisa FK vs Sariyer
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png' group-title='Bóng Đá', 00:45 [Bóng Đá] Galatasaray vs Liverpool
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png' group-title='Bóng Đá', 00:45 [Bóng Đá] Galatasaray vs Liverpool
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/34.png' group-title='HoiQuanTV Full HD', 03:00 - 11/03 | Newcastle vs Barcelona
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png' group-title='Bóng Đá', 03:00 [Bóng Đá] Atalanta vs Bayern München
+https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg' group-title='Bóng Đá', 03:00 [Bóng Đá] Atletico Madrid vs Tottenham
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/34.png' group-title='Bóng Đá', 03:00 [Bóng Đá] Newcastle vs Barcelona
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/34.png' group-title='Bóng Đá', 03:00 [Bóng Đá] Newcastle vs Barcelona
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mirassol_FC_logo.png/500px-Mirassol_FC_logo.png' group-title='Bóng Đá', 07:30 [Bóng Đá] Mirassol vs Santos
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg' group-title='Bóng Đá', 10:00 [Bóng Đá] Los Angeles FC vs LD Alajuelense
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png' group-title='Bóng Đá', 17:00 [Bóng Đá] Sanfrecce Hiroshima vs Johor Darul Takzim FC
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8a/Vissel_Kobe_logo.svg' group-title='Bóng Đá', 17:00 [Bóng Đá] Vissel Kobe vs FC Seoul
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2776.png' group-title='Bóng Đá', 19:15 [Bóng Đá] Ratchaburi vs Gamba Osaka
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/id/9/9c/Logo_PSIM_Yogyakarta.png' group-title='Bóng Đá', 20:30 [Bóng Đá] PSIM Yogyakarta vs Persijap
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4373.png' group-title='Bóng Đá', 21:00 [Bóng Đá] Fužinar vs Aluminij
+https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/685.png' group-title='Bóng Đá', 23:00 [Bóng Đá] Torpedo Kutaisi vs Saburtalo
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
