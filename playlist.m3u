@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/0e/Bayer_04_Leverkusen_logo.png' group-title='Bóng Đá', 00:45 [Bóng Đá] Bayer Leverkusen vs Arsenal
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/0e/Bayer_04_Leverkusen_logo.png' group-title='Bóng Đá', 00:45 [Bóng Đá] Bayer Leverkusen vs Arsenal
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/b/b1/West_Bromwich_Albion.png' group-title='Bóng Đá', 02:45 [Bóng Đá] West Brom vs Southampton
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/327.png' group-title='Bóng Đá', 03:00 [Bóng Đá] Bodo/Glimt vs Sporting CP
@@ -11,8 +7,6 @@ https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png' group-title='Bóng Đá', 03:00 [Bóng Đá] Real Madrid vs Manchester City
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png' group-title='Bóng Đá', 03:00 [Bóng Đá] Real Madrid vs Manchester City
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png' group-title='Bóng Đá', 03:00 [Bóng Đá] Real Madrid vs Manchester City
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/250px-Nashville_SC_logo%2C_2020.svg.png' group-title='Bóng Đá', 06:30 [Bóng Đá] Nashville SC vs Inter Miami
