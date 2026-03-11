@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2776.png' group-title='Bóng Đá', 19:15 [Bóng Đá] Ratchaburi vs Gamba Osaka
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/id/9/9c/Logo_PSIM_Yogyakarta.png' group-title='Bóng Đá', 20:30 [Bóng Đá] PSIM Yogyakarta vs Persijap
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4373.png' group-title='Bóng Đá', 21:00 [Bóng Đá] Fužinar vs Aluminij
