@@ -64,12 +64,18 @@ def process_vongcam():
     try:
         res = requests.get(url, headers=HEADERS, timeout=15).json()
         for item in res.get('data', []):
-            # Xử lý giờ VN
+            # XỬ LÝ GIỜ: API Vongcam thường trả về giờ Việt Nam sẵn
             dt_vn = datetime.max
             if item.get('startTime'):
-                dt_vn = datetime.strptime(item['startTime'][:19], '%Y-%m-%dT%H:%M:%S') + timedelta(hours=7)
+                try:
+                    # Parse giờ từ chuỗi '2026-03-12T17:30:00'
+                    dt_vn = datetime.strptime(item['startTime'][:19], '%Y-%m-%dT%H:%M:%S')
+                    # NẾU bạn thấy giờ vẫn chậm 7 tiếng thì mới dùng dòng dưới:
+                    # dt_vn = dt_vn + timedelta(hours=7) 
+                except:
+                    pass
 
-            # Lấy link FHD từ cấu trúc JSON Vongcam
+            # Lấy link FHD
             commentator = item.get('commentator', {})
             stream_url = commentator.get('streamSourceFhd')
             
