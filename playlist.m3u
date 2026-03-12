@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4243.png' group-title='HoiQuanTV', 20:30 [HoiQuanTV] Persis Solo vs Bali United
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg' group-title='HoiQuanTV', 00:45 [HoiQuanTV] Bologna vs AS Roma
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg' group-title='HoiQuanTV', 00:45 [HoiQuanTV] Lille vs Aston Villa
@@ -9,16 +7,24 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png' group-title='HoiQuanTV', 00:45 [HoiQuanTV] VfB Stuttgart vs FC Porto
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nlI5PEwEmUhl8jVgtay1AC_gsef-aNuY7Q&s' group-title='HoiQuanTV', 01:00 [HoiQuanTV] Arthur Fils vs Alexander Zverev	
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/538.png' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Celta Vigo vs Lyon
 https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Nottingham Forest vs FC Midtjylland
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Crystal Palace vs AEK Larnaca
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/c/c8/Learner_Tien_%282024_US_Open%29_04.jpg' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Learner Tien vs Jannik Sinner	
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2242.png' group-title='HoiQuanTV', 07:00 [HoiQuanTV] FC Cincinnati vs Tigres UANL
 https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/7/7c/Vancouver_Whitecaps_logo.svg' group-title='HoiQuanTV', 09:00 [HoiQuanTV] Vancouver Whitecaps vs Seattle Sounders
 https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://www.sportspro.com/wp-content/uploads/2024/06/News-story-template-1-1.jpg' group-title='HoiQuanTV', 09:00 [HoiQuanTV] Carlos Alcaraz vs Cameron Norrie	
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg' group-title='HoiQuanTV', 11:10 [HoiQuanTV] WTT Champions Chongqing
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/947.png' group-title='HoiQuanTV', 15:00 [HoiQuanTV] Brisbane Roar vs Western Sydney Wanderers
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1975.png' group-title='HoiQuanTV', 15:00 [HoiQuanTV] Newcastle Jets FC W vs Sydney FC W
