@@ -2,7 +2,7 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/10 * * * *' # Chạy mỗi 10 phút
   workflow_dispatch:
 
 jobs:
@@ -30,16 +30,16 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Buộc cập nhật dữ liệu từ GitHub về và ưu tiên bản trên Cloud
           git fetch origin main
           git reset --soft origin/main
           
-          git add playlist.m3u
+          # SỬA TẠI ĐÂY: Thêm tất cả các file có đuôi .m3u (bao gồm cả playlist và vongcam)
+          git add *.m3u
           
-          # Chỉ push nếu có sự thay đổi thực sự trong file playlist
+          # Kiểm tra nếu có bất kỳ file m3u nào thay đổi thì mới commit
           if git diff --staged --quiet; then
-            echo "Không có trận đấu mới, bỏ qua commit."
+            echo "Không có trận đấu mới ở cả 2 nguồn, bỏ qua commit."
           else
-            git commit -m "Update playlist: $(date +'%d/%m/%Y %H:%M')"
+            git commit -m "Update playlists (HoiQuan & Vongcam): $(date +'%d/%m/%Y %H:%M')"
             git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
           fi
