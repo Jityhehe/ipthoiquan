@@ -1,79 +1,95 @@
 import requests
 from datetime import datetime, timedelta
 
-def generate_m3u():
-    api_url = "https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished"
-    headers = {"User-Agent": "Mozilla/5.0"}
-    
+# Header dùng chung để tránh bị chặn
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+
+def save_m3u(filename, fixtures):
+    """Hàm ghi file M3U dùng chung cho cả 2 nguồn"""
     try:
-        response = requests.get(api_url, headers=headers, timeout=15)
-        response.raise_for_status()
-        data = response.json()
-        
-        fixtures_list = []
-        
-        for fixture in data.get('data', []):
-            # 1. Xử lý thời gian (GMT+7)
-            utc_time_str = fixture.get('startTime', '')
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+            # Sắp xếp theo thời gian tăng dần
+            fixtures.sort(key=lambda x: x['time'])
+            for item in fixtures:
+                time_str = item['time'].strftime('%H:%M') if item['time'] != datetime.max else "Live"
+                display_name = f"{time_str} [{item['group']}] {item['title']}"
+                
+                # Thêm User-Agent vào link để xem mượt trên VLC/Mon Player
+                final_url = f"{item['url']}|User-Agent={HEADERS['User-Agent']}"
+                
+                f.write(f"#EXTINF:-1 tvg-logo='{item['logo']}' group-title='{item['provider']}', {display_name}\n")
+                f.write(f"{final_url}\n")
+        print(f"--- Đã tạo xong {filename} ({len(fixtures)} trận) ---")
+    except Exception as e:
+        print(f"Lỗi khi ghi file {filename}: {e}")
+
+def process_hoiquan():
+    """Xử lý nguồn HoiQuanTV -> playlist.m3u"""
+    url = "https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished"
+    fixtures = []
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=15).json()
+        for item in res.get('data', []):
             dt_vn = datetime.max
-            if utc_time_str:
-                try:
-                    dt_utc = datetime.strptime(utc_time_str[:19], '%Y-%m-%dT%H:%M:%S')
-                    dt_vn = dt_utc + timedelta(hours=7)
-                except:
-                    pass
-
-            # 2. Phân loại nhóm thể thao
-            sport_info = fixture.get('sport', {})
-            sport_name_raw = sport_info.get('name', '').lower()
-            if "bóng đá" in sport_name_raw:
-                group_label = "Bóng Đá"
-            elif "bóng rổ" in sport_name_raw:
-                group_label = "Bóng Rổ"
-            elif any(x in sport_name_raw for x in ["esport", "liên minh", "dota", "csgo", "valorant"]):
-                group_label = "Esport"
-            else:
-                group_label = "Khác"
-
-            # 3. Lọc link chất lượng cao (Full HD hoặc FHD)
+            if item.get('startTime'):
+                dt_vn = datetime.strptime(item['startTime'][:19], '%Y-%m-%dT%H:%M:%S') + timedelta(hours=7)
+            
             stream_url = None
-            commentators = fixture.get('fixtureCommentators', [])
-            for comm_entry in commentators:
-                if stream_url: break 
-                streams = comm_entry.get('commentator', {}).get('streams', [])
-                for s in streams:
-                    s_name = s.get('name', '').upper().replace(" ", "")
-                    # Kiểm tra xem tên có chứa 'FULLHD' hoặc 'FHD' không
-                    if "FULLHD" in s_name or "FHD" in s_name:
+            for comm in item.get('fixtureCommentators', []):
+                if stream_url: break
+                for s in comm.get('commentator', {}).get('streams', []):
+                    name = s.get('name', '').upper().replace(" ", "")
+                    # Nhận diện cả Full HD và FHD
+                    if "FULLHD" in name or "FHD" in name:
                         stream_url = s.get('sourceUrl')
-                        if stream_url:
-                            break
+                        break
             
             if stream_url:
-                fixtures_list.append({
-                    'time_obj': dt_vn,
-                    'group': group_label,
-                    'title': fixture.get('title'),
-                    'logo': fixture.get('homeTeam', {}).get('logoUrl', ''),
-                    'url': stream_url
+                fixtures.append({
+                    'time': dt_vn,
+                    'group': "HoiQuanTV",
+                    'title': item.get('title'),
+                    'logo': item.get('homeTeam', {}).get('logoUrl', ''),
+                    'url': stream_url,
+                    'provider': 'HoiQuanTV'
                 })
+    except: pass
+    return fixtures
 
-        # 4. Sắp xếp theo giờ thi đấu
-        fixtures_list.sort(key=lambda x: x['time_obj'])
+def process_vongcam():
+    """Xử lý nguồn VongcamTV -> vongcam.m3u"""
+    url = "https://sv.bugiotv.xyz/internal/api/matches"
+    fixtures = []
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=15).json()
+        for item in res.get('data', []):
+            # Xử lý giờ VN
+            dt_vn = datetime.max
+            if item.get('startTime'):
+                dt_vn = datetime.strptime(item['startTime'][:19], '%Y-%m-%dT%H:%M:%S') + timedelta(hours=7)
 
-        # 5. Ghi file M3U
-        with open("playlist.m3u", "w", encoding="utf-8") as f:
-            f.write("#EXTM3U\n")
-            for item in fixtures_list:
-                time_str = item['time_obj'].strftime('%H:%M') if item['time_obj'] != datetime.max else "Live"
-                display_name = f"{time_str} [{item['group']}] {item['title']}"
-                f.write(f"#EXTINF:-1 tvg-logo='{item['logo']}' group-title='{item['group']}', {display_name}\n")
-                f.write(f"{item['url']}\n")
-                
-        print(f"Thành công! Đã quét được {len(fixtures_list)} trận chất lượng cao.")
-        
-    except Exception as e:
-        print(f"Lỗi: {e}")
+            # Lấy link FHD từ cấu trúc JSON Vongcam
+            commentator = item.get('commentator', {})
+            stream_url = commentator.get('streamSourceFhd')
+            
+            if stream_url:
+                fixtures.append({
+                    'time': dt_vn,
+                    'group': item.get('tournamentName', 'VongcamTV'),
+                    'title': item.get('title'),
+                    'logo': item.get('homeClub', {}).get('logoUrl', ''),
+                    'url': stream_url,
+                    'provider': 'VongcamTV'
+                })
+    except: pass
+    return fixtures
 
 if __name__ == "__main__":
-    generate_m3u()
+    # 1. Chạy nguồn HoiQuan
+    hq_data = process_hoiquan()
+    save_m3u("playlist.m3u", hq_data)
+    
+    # 2. Chạy nguồn Vongcam
+    vc_data = process_vongcam()
+    save_m3u("vongcam.m3u", vc_data)
