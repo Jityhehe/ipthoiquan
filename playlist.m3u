@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3669.png' group-title='HoiQuanTV', 18:00 [HoiQuanTV] Da Nang vs Hoang Anh Gia Lai
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3674.png' group-title='HoiQuanTV', 18:00 [HoiQuanTV] Nam Dinh vs Thanh Hóa
-https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3670.png' group-title='HoiQuanTV', 19:15 [HoiQuanTV] Ha Noi vs Song Lam Nghe An
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/5/54/Royal_Malaysian_Police.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV]  PDRM vs Negeri Sembilan
@@ -31,7 +27,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8|User-Agent=Mozil
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/2/24/FC_Ju%C3%A1rez_logo.png' group-title='HoiQuanTV', 10:00 [HoiQuanTV] FC Juarez vs Monterrey
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Central_Coast_Mariners_logo.svg/1001px-Central_Coast_Mariners_logo.svg.png' group-title='HoiQuanTV', 11:00 [HoiQuanTV] Central Coast Mariners vs Adelaide United
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA_Gai94H-9w4OSQZGIR7XXe81pj_M_f4Ag&s' group-title='HoiQuanTV', 11:00 [HoiQuanTV] Central Coast Mariners vs Adelaide United
 https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/296.png' group-title='HoiQuanTV', 11:00 [HoiQuanTV] Yokohama F. Marinos vs JEF United Chiba
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
