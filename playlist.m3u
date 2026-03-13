@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/5/54/Royal_Malaysian_Police.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV]  PDRM vs Negeri Sembilan
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/6261/brand.gif?itok=ulzziNqw' group-title='HoiQuanTV', 21:45 [HoiQuanTV] Lokomotiv Plovdiv vs Septemvri Sofia
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/6813.png' group-title='HoiQuanTV', 23:30 [HoiQuanTV] Dinamo Makhachkala vs FC Orenburg
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/e/ea/Fatih_Karag%C3%BCmr%C3%BCk_S.K..png/250px-Fatih_Karag%C3%BCmr%C3%BCk_S.K..png' group-title='HoiQuanTV', 00:00 [HoiQuanTV] Fatih Karagumruk vs Fenerbahçe
