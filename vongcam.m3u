@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/542.png' group-title='VongcamTV', 03:00 [La Liga] Alaves vs Villarreal
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1728.png' group-title='VongcamTV', 16:00 [Asian Cup Women] South Korea W vs Uzbekistan W
 https://bglive.zlylive.com/live/bgtv_blv_tieudo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://matchroompool.com/wp-content/uploads/Duong-Quoc-Hoang-1.png' group-title='VongcamTV', 17:00 [European Open Pool] Dương Quốc Hoàng vs Sanchez Ruiz
