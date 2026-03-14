@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/547.png' group-title='VongcamTV', 20:00 [La Liga] Girona vs Athletic Club
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/505.png' group-title='VongcamTV', 21:00 [Serie A] Inter vs Atalanta
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/168.png' group-title='VongcamTV', 21:30 [Bundesliga] Bayer Leverkusen vs Bayern München
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/746.png' group-title='VongcamTV', 22:00 [Premier League] Sunderland vs Brighton
