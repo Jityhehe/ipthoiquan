@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='HoiQuanTV', 02:30 [HoiQuanTV] Milwaukee Bucks vs Indiana Pacers
 https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqksyaudrnPerqAK70Wf34Xo-WN_BSmSsQg&s' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Real Sociedad vs Osasuna
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-ThUSVRA1sgqwj_Qe4f22lmchMKp66MuBg&s' group-title='HoiQuanTV', 04:00 [HoiQuanTV] Daniil Medvedev vs Jannik Sinner	
 https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='HoiQuanTV', 05:00 [HoiQuanTV] Philadelphia 76ers vs Portland Trail Blazers
