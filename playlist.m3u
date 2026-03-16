@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg' group-title='HoiQuanTV', 05:00 [HoiQuanTV] Philadelphia 76ers vs Portland Trail Blazers
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://i.pinimg.com/736x/25/76/86/257686e35e7375f804611f90b6d65e68.jpg' group-title='HoiQuanTV', 06:00 [HoiQuanTV] Tigres UANL vs Club Queretaro
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='HoiQuanTV', 07:00 [HoiQuanTV] New York Knicks vs Golden State Warriors
-https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/441.png' group-title='HoiQuanTV', 08:00 [HoiQuanTV] Union Santa Fe vs Boca Juniors
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Club_Am%C3%A9rica_crest.svg/1200px-Club_Am%C3%A9rica_crest.svg.png' group-title='HoiQuanTV', 08:00 [HoiQuanTV] Club America vs Mazatlán
-https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png' group-title='HoiQuanTV', 09:00 [HoiQuanTV] Sacramento Kings vs Utah Jazz
 https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Daegu_KOGAS_Pegasus.svg/1200px-Daegu_KOGAS_Pegasus.svg.png' group-title='HoiQuanTV', 17:00 [HoiQuanTV] KoGas vs Anyang JungKwanJang
