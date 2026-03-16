@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://imglink.cc/cdn/hCbQHiFFt_.jpeg' group-title='HoiQuanTV', 17:30 [HoiQuanTV] Bandirmaspor vs Igdir FK
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10077.png' group-title='HoiQuanTV', 19:30 [HoiQuanTV] Tanjong Pagar vs Tampines Rovers
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/b/b6/%C3%87orum_FK_crest.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Corum FK vs Esenler Erokspor	Hạng 2 Thổ Nhĩ Kỳ
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3466.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Minerva Punjab vs Goa
-https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/16611.png' group-title='HoiQuanTV', 22:00 [HoiQuanTV] Zhenys vs Ordabasy
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2581.png' group-title='HoiQuanTV', 22:30 [HoiQuanTV] FC Botosani vs Unirea Slobozia
