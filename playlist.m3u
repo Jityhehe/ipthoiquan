@@ -6,9 +6,9 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozil
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Chelsea vs Paris Saint Germain
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Manchester City vs Real Madrid
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Manchester City vs Real Madrid
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Chelsea vs Paris Saint Germain
+https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png' group-title='HoiQuanTV', 06:00 [HoiQuanTV] Charlotte Hornets vs Miami Heat
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png' group-title='HoiQuanTV', 07:00 [HoiQuanTV] Milwaukee Bucks vs Cleveland Cavaliers
@@ -26,7 +26,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozi
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Busan_KT_Sonicboom.svg/250px-Busan_KT_Sonicboom.svg.png' group-title='HoiQuanTV', 16:00 [HoiQuanTV] Suwon KT vs Wonju DB
 https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png' group-title='HoiQuanTV', 16:30 [HoiQuanTV] Cerezo Osaka vs Fagiano Okayama
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8a/Vissel_Kobe_logo.svg' group-title='HoiQuanTV', 17:00 [HoiQuanTV] Vissel Kobe vs Gamba Osaka
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/305.png' group-title='HoiQuanTV', 17:00 [HoiQuanTV] Mito Hollyhock vs Yokohama F. Marinos
@@ -44,7 +44,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8|User-Agent=Mozill
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/596.png' group-title='HoiQuanTV', 22:15 [HoiQuanTV] Zenit vs Dinamo Makhachkala
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/79/S.C._Braga_logo.svg' group-title='HoiQuanTV', 22:30 [HoiQuanTV] SC Braga vs Ferencvarosi TC
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/21953.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Kudrivka vs Polessya
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ey%C3%BCpspor_Logosu.png/250px-Ey%C3%BCpspor_Logosu.png' group-title='HoiQuanTV', 00:00 [HoiQuanTV]  Eyupspor vs Trabzonspor
@@ -62,7 +62,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/16945.png' group-title='HoiQuanTV', 10:00 [HoiQuanTV] Uzbekistan W vs Philippines W
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17886.png' group-title='HoiQuanTV', 16:00 [HoiQuanTV] Chinese Taipei W vs Korea DPR
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/SichuanGuancheng.jpg/250px-SichuanGuancheng.jpg' group-title='HoiQuanTV', 18:35 [HoiQuanTV] Sichuan vs Ningbo Rockets
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/26963.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] SC Delhi vs Jamshedpur
