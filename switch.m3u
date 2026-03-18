@@ -39,10 +39,13 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Tiểu Độ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_tieudo/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Phan Tôm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://live1.cdnbacklive.xyz/live/bgtv_blv_phantom/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Tiểu Bảo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Dẻ Lúa
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Dế Lửa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Tiểu Pao
@@ -54,6 +57,3 @@ https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Tiểu Ngoạn Đồng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Phantom
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://live1.cdnbacklive.xyz/live/bgtv_blv_phantom/playlist.m3u8
