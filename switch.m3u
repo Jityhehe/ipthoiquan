@@ -48,7 +48,7 @@ https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Dế Lửa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Tiểu Pao
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Tiểu Páo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Trà Đá
@@ -57,3 +57,6 @@ https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV Tiểu Ngoạn Đồng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM" tvg-logo="https://sv2.vongcam2.live/logo-x.png", BLV A Phủ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8
