@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3619.png' group-title='VongcamTV', 18:00 [Premier League] Oleksandria vs Dynamo Kyiv
+https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1001.png' group-title='VongcamTV', 20:00 [Süper Lig] Kayserispor vs Fatih Karagümrük
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1079.png' group-title='VongcamTV', 22:30 [Cup] Krylia Sovetov vs Lokomotiv
+https://bglive.zlylive.com/live/bgtv_blv_tieudo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
