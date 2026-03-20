@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/db/Western_Sydney_Wanderers_FC.svg' group-title='VongcamTV', 15:35 [A-LEAGUE] Western Sydney Wanderers vs Adelaide United
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Dalian_Yingbo_F.C.svg/960px-Dalian_Yingbo_F.C.svg.png' group-title='VongcamTV', 18:00 [China - Super League] Dalian Young Boy vs Shanghai Port
-https://live1.cdnbacklive.xyz/live/bgtv_blv_phantom/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a6/Ho_Chi_Minh_City_FC_%282017%29_logo.png' group-title='VongcamTV', 19:15 [National Cup] Hồ Chí Minh vs Bình Phước
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/9/96/FC_Astana_Logo.svg/960px-FC_Astana_Logo.svg.png' group-title='VongcamTV', 21:00 [Kazakhstan Premier League] Astana vs Tobol
-https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.cdnbacklive.xyz/live/bgtv_blv_phantom/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/b/b0/Spartaksubotica.png' group-title='VongcamTV', 23:00 [Serbia - Super Liga] Spartak Subotica vs Radnik Surdulica
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/490.png' group-title='VongcamTV', 00:30 [Serie A] Cagliari vs Napoli
@@ -18,7 +18,7 @@ https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8|User-Agent=Mozilla/5
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/35.png' group-title='VongcamTV', 03:00 [Premier League] Bournemouth vs Manchester United
 https://live1.cdnbacklive.xyz/live/bgtv_blv_phantom/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/533.png' group-title='VongcamTV', 03:00 [La Liga] Villarreal vs Real Sociedad
-https://bglive.zlylive.com/live/bgtv_blv_tieudo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/944.png' group-title='VongcamTV', 13:10 [A-League] Melbourne Victory vs Central Coast Mariners
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1720.png' group-title='VongcamTV', 16:00 [Asian Cup Women] Japan W vs Australia W
@@ -32,6 +32,6 @@ https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='VongcamTV', 21:30 [Bundesliga] Bayern München vs Union Berlin
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/180.png' group-title='VongcamTV', 21:30 [Bundesliga] 1. FC Heidenheim vs Bayer Leverkusen
-https://bglive.zlylive.com/live/bgtv_blv_tieudo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/36.png' group-title='VongcamTV', 22:00 [Premier League] Fulham vs Burnley
 https://live1.cdnbacklive.xyz/live/bgtv_blv_phantom/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
