@@ -51,3 +51,15 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg' group-title='HoiQuanTV', 23:30 [HoiQuanTV] Arsenal vs Manchester City
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/93/Pachuca_Tuzos_logo.svg' group-title='HoiQuanTV', 06:00 [HoiQuanTV] Pachuca vs Toluca
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Bhutan_FF_logo.svg/250px-Bhutan_FF_logo.svg.png' group-title='HoiQuanTV', 17:45 [HoiQuanTV] Bhutan U20 vs Nepal U20
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2948.png' group-title='HoiQuanTV', 19:45 [HoiQuanTV] Hajer vs Ohod
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/21137.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] East Bengal II vs Mohammedan
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png' group-title='HoiQuanTV', 21:30 [HoiQuanTV] Chelyabinsk vs Torpedo Moskva
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/6822.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Rodina Moskva vs Chayka
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
