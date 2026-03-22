@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2286.png' group-title='HoiQuanTV', 10:10 [HoiQuanTV] U.N.A.M. - Pumas vs Club America
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp' group-title='HoiQuanTV', 12:00 [HoiQuanTV] Tokyo Verdy vs FC Tokyo
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png' group-title='HoiQuanTV', 13:00 [HoiQuanTV] Cerezo Osaka vs Vissel Kobe
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg' group-title='HoiQuanTV', 14:30 [HoiQuanTV] Gangwon FC vs Jeju United FC
