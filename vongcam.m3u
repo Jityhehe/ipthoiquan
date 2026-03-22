@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/47.png' group-title='VongcamTV', 21:15 [Premier League] Tottenham vs Nottingham Forest
-https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/66.png' group-title='VongcamTV', 21:15 [Premier League] Aston Villa vs West Ham
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/42.png' group-title='VongcamTV', 23:30 [League Cup] Arsenal vs Manchester City
 https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/42.png' group-title='VongcamTV', 23:30 [League Cup] Arsenal vs Manchester City
