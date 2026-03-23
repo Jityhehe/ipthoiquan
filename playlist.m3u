@@ -6,15 +6,13 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozi
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/21137.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] East Bengal II vs Mohammedan
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png' group-title='HoiQuanTV', 21:30 [HoiQuanTV] Chelyabinsk vs Torpedo Moskva
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/6822.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Rodina Moskva vs Chayka
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/24133.png' group-title='HoiQuanTV', 00:00 [HoiQuanTV] Union Berlin W vs Werder Bremen W
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1200px-Flag_of_Saudi_Arabia.svg.png' group-title='HoiQuanTV', 01:00 [HoiQuanTV] Ả Rập Saudi U20 vs Bahrain U20
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/6916.png' group-title='HoiQuanTV', 01:30 [HoiQuanTV] Unirea Slobozia vs Oţelul
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/960px-Logo_of_CD_Castell%C3%B3n.svg.png' group-title='HoiQuanTV', 02:30 [HoiQuanTV] Castellon vs Leonesa
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/445.png' group-title='HoiQuanTV', 07:15 [HoiQuanTV] Huracan vs Barracas Central
@@ -26,4 +24,30 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15362.png' group-title='HoiQuanTV', 19:35 [HoiQuanTV] Al Sahel vs Jubbah
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/250px-Flag_of_Iraq.svg.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Iraq U20 vs Jordan U20
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/330px-Flag_of_the_United_Arab_Emirates.svg.png' group-title='HoiQuanTV', 00:00 [HoiQuanTV] United Arab Emirates U20 vs Syria U20
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1863.png' group-title='HoiQuanTV', 00:45 [HoiQuanTV] VfL Wolfsburg W vs Lyon W
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1354.png' group-title='HoiQuanTV', 02:45 [HoiQuanTV] Doncaster vs Port Vale
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/250px-Arsenal_FC.svg.png' group-title='HoiQuanTV', 03:00 [HoiQuanTV] Arsenal W vs Chelsea W
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1147.png' group-title='HoiQuanTV', 08:00 [HoiQuanTV] Fortaleza FC vs Deportivo Pasto
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICzfUFWLtZeO9TAQFeae3jKwM6BuDU4Uskc-a6t5Z67IZr57Q8pH54yp6EHJTICjUEeOPH0S17XICiz7WES-taLSs3TE6&s&ec=121584920' group-title='HoiQuanTV', 14:00 [HoiQuanTV]  U23 Việt Nam vs U23 Triều Tiên
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png' group-title='HoiQuanTV', 14:00 [HoiQuanTV] Trung Quốc U23 vs Thái Lan U23
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/22292.png' group-title='HoiQuanTV', 15:00 [HoiQuanTV] Central Coast Mariners W vs Wellington Phoenix W
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1920px-Flag_of_Kazakhstan.svg.png' group-title='HoiQuanTV', 17:00 [HoiQuanTV] Kazakhstan vs Comoros
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg' group-title='HoiQuanTV', 18:00 [HoiQuanTV] England U19 vs Serbia U19
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Italy U17 vs Portugal U17
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://www.shutterstock.com/image-vector/circular-icon-featuring-germany-flag-260nw-2593487697.jpg' group-title='HoiQuanTV', 22:00 [HoiQuanTV] Germany U17 vs North Macedonia U17
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10376.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Poland U19 vs Portugal U19
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
