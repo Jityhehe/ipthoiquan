@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/hAfuzkf5-lMVZX2F3.png' group-title='VongcamTV', 17:45 [SAFF Championship U20] U20 Bhutan vs Nepal U20
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10640.png' group-title='VongcamTV', 19:30 [Cup] Ajim Djerba vs EM Mahdia
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2948.png' group-title='VongcamTV', 19:45 [Division 2] Hajer vs Ohod
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/tvjYCoxS-4KC2ERh1.png' group-title='VongcamTV', 21:00 [SAFF Championship U20] U20 Oman vs Qatar U20
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/21137.png' group-title='VongcamTV', 21:00 [Indian Super League] East Bengal II vs Mohammedan
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/hdkEeicM-lMVZX2F3.png' group-title='VongcamTV', 23:00 [SAFF Championship U20] U20 Palestine vs Kuwait U20
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/6822.png' group-title='VongcamTV', 23:00 [First League] Rodina Moskva vs Chayka
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/jRqW10ZA-2FUMH7Dh.png' group-title='VongcamTV', 01:00 [WAFF Championship U20] U20 Ả Rập Xê Út vs Bahrain U20
 https://live1.cdnbacklive.xyz/live/bgtv_blv_phantom/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
