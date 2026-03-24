@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/W4ZlFxFa-I9TDla93.png' group-title='HoiQuanTV', 17:00 [HoiQuanTV] Fomget GSK Nữ vs Amed SK Nữ
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1280px-Flag_of_Bangladesh.svg.png' group-title='HoiQuanTV', 17:45 [HoiQuanTV] Bangladesh U20 vs Pakistan U20	SAFF Championship U20
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15362.png' group-title='HoiQuanTV', 19:35 [HoiQuanTV] Al Sahel vs Jubbah
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/4c/Al_Ain_FC_%28Saudi_Football_Club%29_Logo.png' group-title='HoiQuanTV', 20:05 [HoiQuanTV] Al-Ain vs Al Rawdhah
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2897.png' group-title='HoiQuanTV', 22:15 [HoiQuanTV] Al-Rayyan SC vs Al Shahaniya
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Umm_Salal_SC_logo.svg/1200px-Umm_Salal_SC_logo.svg.png' group-title='HoiQuanTV', 00:15 [HoiQuanTV] Umm Salal         -         Al Bidda SC
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1863.png' group-title='HoiQuanTV', 00:45 [HoiQuanTV] VfL Wolfsburg W vs Lyon W
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1354.png' group-title='HoiQuanTV', 02:45 [HoiQuanTV] Doncaster vs Port Vale
