@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1280px-Flag_of_Bangladesh.svg.png' group-title='HoiQuanTV', 17:45 [HoiQuanTV] Bangladesh U20 vs Pakistan U20	SAFF Championship U20
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/4c/Al_Ain_FC_%28Saudi_Football_Club%29_Logo.png' group-title='HoiQuanTV', 20:05 [HoiQuanTV] Al-Ain vs Al Rawdhah
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/15362.png' group-title='HoiQuanTV', 19:35 [HoiQuanTV] Al Sahel vs Jubbah
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2897.png' group-title='HoiQuanTV', 22:15 [HoiQuanTV] Al-Rayyan SC vs Al Shahaniya
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
