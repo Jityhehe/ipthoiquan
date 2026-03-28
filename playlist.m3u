@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/AD_Ceuta_FC.png/250px-AD_Ceuta_FC.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] AD Ceuta FC vs Cadiz
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] South Korea vs Ivory Coast
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Escudo_Granada_club_de_f%C3%BAtbol.png/250px-Escudo_Granada_club_de_f%C3%BAtbol.png' group-title='HoiQuanTV', 22:15 [HoiQuanTV] Granada CF vs Huesca
