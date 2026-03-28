@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10217.png' group-title='HoiQuanTV', 16:30 [HoiQuanTV] Lions vs Brisbane City
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10932.png' group-title='HoiQuanTV', 18:35 [HoiQuanTV] China PR U23 vs Korea DPR U23
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/AD_Ceuta_FC.png/250px-AD_Ceuta_FC.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] AD Ceuta FC vs Cadiz
