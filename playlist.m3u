@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://i.ytimg.com/vi/jPsx61mId9U/maxresdefault.jpg' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Táo Quân 2026
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Armenia vs Belarus
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Logo_of_Cultural_y_Deportiva_Leonesa.svg/960px-Logo_of_Cultural_y_Deportiva_Leonesa.svg.png' group-title='HoiQuanTV', 21:15 [HoiQuanTV] Cultural Leonesa vs FC Andorra
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/8167.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Aruba vs Liechtenstein
