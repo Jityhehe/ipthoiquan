@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10932.png' group-title='HoiQuanTV', 18:35 [HoiQuanTV] China PR U23 vs Vietnam U23
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1542.png' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Vietnam vs Malaysia
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1542.png' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Vietnam vs Malaysia
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Singapore vs Bangladesh
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://cocacnuoc.com/wp-content/uploads/2024/10/co-Nepal.jpg' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Nepal vs Laos
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1564.png' group-title='HoiQuanTV', 19:30 [HoiQuanTV] Thailand vs Turkmenistan
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1200px-Flag_of_Tajikistan.svg.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Tajikistan vs Philippines
