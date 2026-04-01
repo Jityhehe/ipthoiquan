@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/7372.png' group-title='VongcamTV', 22:00 [3. liga - CFL B] Velké Hamry vs Sokol Brozany
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://matchroompool.com/wp-content/uploads/Joshua-Filler-3.png' group-title='VongcamTV', 23:30 [Bank Pool Master Showdown] Joshua Fillier vs Fedor Gorst
+https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1860.png' group-title='VongcamTV', 23:45 [UEFA Champions League Women] Bayern Munich W vs Manchester United W
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/8157.png' group-title='VongcamTV', 00:00 [Segunda División] FC Andorra vs Malaga
