@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4210.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Bunyodkor vs Lokomotiv
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Dương Quốc Hoàng vs Justin Bergman 
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/16483.png' group-title='HoiQuanTV', 23:30 [HoiQuanTV] Häcken vs Eintracht Frankfurt W
