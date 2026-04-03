@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/128.png' group-title='HoiQuanTV', 05:00 [HoiQuanTV] Santos vs Remo
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/1200px-Palmeiras_logo.svg.png' group-title='HoiQuanTV', 07:30 [HoiQuanTV] Palmeiras vs Gremio
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvneYn5hB7L6f1h2sACsiTINILVfLie-TW2A&s' group-title='HoiQuanTV', 07:30 [HoiQuanTV] Alex Michelsen vs Alexei Popyrin
@@ -11,8 +9,12 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozi
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1972.png' group-title='HoiQuanTV', 12:50 [HoiQuanTV] Adelaide United W vs Wellington Phoenix W
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Baez_RG22_%28cropped%29.jpg/960px-Baez_RG22_%28cropped%29.jpg' group-title='HoiQuanTV', 14:00 [HoiQuanTV] Sebastian Baez vs Titouan Droguet
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Arema_FC_2017_logo.svg/1200px-Arema_FC_2017_logo.svg.png' group-title='HoiQuanTV', 15:30 [HoiQuanTV] Arema FC vs Malut United
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://www.atptour.com/-/media/alias/player-headshot/S0KT' group-title='HoiQuanTV', 15:30 [HoiQuanTV] Stefanos Sakellaridis vs Fabian Marozsan
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3zrZ0HFvG9-HWKYsCOLXgZJ1y7d2zLCzmQ&s' group-title='HoiQuanTV', 15:35 [HoiQuanTV] Adelaide United vs Auckland
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/26603.png' group-title='HoiQuanTV', 16:00 [HoiQuanTV] Văn Hiến vs Than Quang Ninh
