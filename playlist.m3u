@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png' group-title='HoiQuanTV', 23:30 [HoiQuanTV] VfB Stuttgart vs Borussia Dortmund
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg' group-title='HoiQuanTV', 23:30 [HoiQuanTV] Real Betis vs Espanyol
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3ZMcLTxrcrE5sPJnk8sQRl4N_EJ5KLlBfg&s' group-title='HoiQuanTV', 00:00 [HoiQuanTV] Jessica Pegula vs Iva Jovic
@@ -17,8 +15,6 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg' group-title='HoiQuanTV', 02:05 [HoiQuanTV] Lille vs Lens
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/128.png' group-title='HoiQuanTV', 03:15 [HoiQuanTV] Santos vs Ayacucho FC
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Club_de_F%C3%BAtbol_Monterrey.png/250px-Club_de_F%C3%BAtbol_Monterrey.png' group-title='HoiQuanTV', 06:00 [HoiQuanTV] Monterrey vs Atletico San Luis
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/9568.png' group-title='HoiQuanTV', 06:30 [HoiQuanTV] Inter Miami vs Austin
@@ -38,9 +34,9 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozi
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Melbourne_Victory.svg/250px-Melbourne_Victory.svg.png' group-title='HoiQuanTV', 12:00 [HoiQuanTV] Melbourne Victory vs Wellington Phoenix
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg' group-title='HoiQuanTV', 13:00 [HoiQuanTV] FC Tokyo vs Machida Zelvia
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/74/KawasakiFrontale.png' group-title='HoiQuanTV', 14:00 [HoiQuanTV] Kawasaki Frontale vs Urawa
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/74/KawasakiFrontale.png' group-title='HoiQuanTV', 14:00 [HoiQuanTV] Kawasaki Frontale vs Urawa
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Emblem_of_Incheon_United.svg/960px-Emblem_of_Incheon_United.svg.png' group-title='HoiQuanTV', 14:30 [HoiQuanTV] Incheon United vs Gimcheon Sangmu FC
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Bhayangkara_FC_logo.svg/960px-Bhayangkara_FC_logo.svg.png' group-title='HoiQuanTV', 15:30 [HoiQuanTV] Bhayangkara FC vs Persija
@@ -85,6 +81,8 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png' group-title='HoiQuanTV', 02:00 [HoiQuanTV] Alaves vs Osasuna
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/128.png' group-title='HoiQuanTV', 03:15 [HoiQuanTV] Santos vs Ayacucho FC
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_Esporte_Clube_Bahia_%282004%29.svg/250px-Logo_of_Esporte_Clube_Bahia_%282004%29.svg.png' group-title='HoiQuanTV', 05:30 [HoiQuanTV] Bahia vs Palmeiras
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png' group-title='HoiQuanTV', 06:00 [HoiQuanTV] Minnesota Timberwolves vs Charlotte Hornets
