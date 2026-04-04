@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/6786.png' group-title='VongcamTV', 17:00 [Premier League] Akron vs CSKA Moscow
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/50.png' group-title='VongcamTV', 18:45 [FA Cup] Manchester City vs Liverpool
 https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/23208.png' group-title='VongcamTV', 20:00 [AFC U20 Asian Cup - Women] Vietnam U20 W vs Thailand U20 W
