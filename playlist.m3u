@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9LJw59tDeyyK6St2t81J70U5Ft_2v9zkldQ&s' group-title='HoiQuanTV', 22:00 [HoiQuanTV] Geal Monfils vs Tallon Griekspoor
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png' group-title='HoiQuanTV', 22:30 [HoiQuanTV] West Ham vs Leeds
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/7e/Eintracht_Frankfurt_crest.svg' group-title='HoiQuanTV', 22:30 [HoiQuanTV] Eintracht Frankfurt vs 1. FC Köln
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Pisa vs Torino
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/718.png' group-title='HoiQuanTV', 23:30 [HoiQuanTV] Oviedo vs Sevilla
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlU4LEaEW-JKwk75KZ2INVtoqmopr0gJ9yVw&s' group-title='HoiQuanTV', 23:30 [HoiQuanTV] Moise Kouame vs Ugo Humbert
