@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/492.png' group-title='VongcamTV', 01:45 [Serie A] Napoli vs AC Milan
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/547.png' group-title='VongcamTV', 02:00 [La Liga] Girona vs Villarreal
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4716.png' group-title='VongcamTV', 02:45 [Primeira Liga] Casa Pia vs Benfica
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://volleybox.net/media/upload/teams/big_1740045997QPZs5.png' group-title='VongcamTV', 12:00 [Bóng chuyền VĐQG 2026] VTV BĐ Long An vs Vietinbank
