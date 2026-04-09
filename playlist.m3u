@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rpQ-wJnzUYxV6CKLv2ShtPn9ygUSQgDu5w&s' group-title='HoiQuanTV', 10:00 [HoiQuanTV] LU Guang Zu vs CHOU Tien Chen
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://file.hstatic.net/200000852613/file/dzzz_bab74518295c422e94d9c4af5a693458_grande.jpg' group-title='HoiQuanTV', 11:30 [HoiQuanTV] Kunlavut VITIDSARN vs Yushi TANAKA
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png' group-title='HoiQuanTV', 12:30 [HoiQuanTV] AN Se Young vs NGUYỄN Thùy Linh
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rpQ-wJnzUYxV6CKLv2ShtPn9ygUSQgDu5w&s' group-title='HoiQuanTV', 13:30 [HoiQuanTV] LU Guang Zu vs CHOU Tien Chen
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFEEpUH4GyiUFgY5u-Dgiqc0hqecM0NTHIA&s' group-title='HoiQuanTV', 16:00 [HoiQuanTV] Zizou Bergs vs Alexander Zverev
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyDXXFrntQ8oD-0ScBeI4o43O2rcgU2dsjQ&s' group-title='HoiQuanTV', 17:30 [HoiQuanTV] Felix Auger-Aliassime vs Casper Ruud
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyDXXFrntQ8oD-0ScBeI4o43O2rcgU2dsjQ&s' group-title='HoiQuanTV', 17:00 [HoiQuanTV] Felix Auger-Aliassime vs Casper Ruud
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/5/55/Shanxi_Brave_Dragons_logo.jpg' group-title='HoiQuanTV', 18:35 [HoiQuanTV] Shanxi Zhongyu vs Shenzhen
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Svay_Rieng_FC_logo.png/250px-Svay_Rieng_FC_logo.png' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Svay Rieng vs Manila Digger
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://www.sportspro.com/wp-content/uploads/2024/06/News-story-template-1-1.jpg' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Carlos Alcaraz vs Tomas Martin Etcheverry
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/6/62/Lehecka_MCM23_%285%29_%2852883527310%29.jpg' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Jiri Lehecka vs Alexander Bublik
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1416.png' group-title='HoiQuanTV', 19:30 [HoiQuanTV] Lokomotiv Sofia vs Beroe
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3476.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Jamshedpur vs Mumbai City
