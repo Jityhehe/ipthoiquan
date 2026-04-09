@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://clblongan.vhv.vn/publish/thumbnail/20579/480x480xfull/upload/20579/20171122/logo.jpg' group-title='VongcamTV', 17:00 [Bóng chuyền VĐQG 2026] VTV BĐ Long An vs XMLS Thanh Hoá
+#EXTINF:-1 tvg-logo='https://clblongan.vhv.vn/publish/thumbnail/20579/480x480xfull/upload/20579/20171122/logo.jpg' group-title='VongcamTV', 17:30 [Bóng chuyền VĐQG 2026] VTV BĐ Long An vs XMLS Thanh Hoá
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/5396.png' group-title='VongcamTV', 19:00 [AFC Challenge League] Svay Rieng vs Manila Digger
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
