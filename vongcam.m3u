@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkN4zqMNT29vFr3Sl3Td2Ie7g7YftCsp4DiA&s' group-title='VongcamTV', 12:00 [Bóng chuyền VĐQG 2026] BC Thông tin BĐ19 vs XMLS Thanh Hoá
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/19086.png' group-title='VongcamTV', 16:00 [AFC U20 Asian Cup - Women] Japan U20 W vs Vietnam U20 W
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://volleybox.net/media/upload/teams/big_1759304612chj2e.png' group-title='VongcamTV', 17:00 [Bóng chuyền VĐQG 2026] Geleximco Hưng Yên vs VTV BĐ Long An
