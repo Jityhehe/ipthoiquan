@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/5/50/Kayserispor_%28logo%29.svg' group-title='HoiQuanTV', 00:00 [HoiQuanTV] Kayserispor vs Fenerbahçe
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2977.png' group-title='HoiQuanTV', 01:00 [HoiQuanTV] Al Okhdood vs Al-Nassr
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png' group-title='HoiQuanTV', 01:45 [HoiQuanTV] Atalanta vs Juventus
