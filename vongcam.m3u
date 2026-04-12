@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/9568.png' group-title='VongcamTV', 06:30 [Major League Soccer] Inter Miami vs New York Red Bulls
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png/250px-Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png' group-title='VongcamTV', 12:00 [Bóng chuyền VĐQG 2026] Hà Nội Tasco Auto vs LPBank Ninh Bình
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/9164.png' group-title='VongcamTV', 16:00 [V.League 2] Dong Thap vs Bình Phước
