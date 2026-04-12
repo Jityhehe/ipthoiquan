@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Crystal Palace vs Newcastle
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Sunderland vs Tottenham
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://www.sportspro.com/wp-content/uploads/2024/06/News-story-template-1-1.jpg' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Alcaraz C. vs Sinner J.
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/192.png' group-title='HoiQuanTV', 20:30 [HoiQuanTV] 1. FC Köln vs Werder Bremen
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://vectorseek.com/wp-content/uploads/2023/08/Rcd-Mallorca-Logo-Vector.svg-.png' group-title='HoiQuanTV', 21:15 [HoiQuanTV] Mallorca vs Rayo Vallecano
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/6/63/Toulouse_FC_2018_logo.svg/1200px-Toulouse_FC_2018_logo.svg.png' group-title='HoiQuanTV', 22:15 [HoiQuanTV] Toulouse vs Lille
