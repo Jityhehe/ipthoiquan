@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/phi.png&cquality=40&h=144&scale=crop&w=144' group-title='VongcamTV', 15:30 [U17 Đông Nam Á] U17 Philippines - Lào U17
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2767.png' group-title='VongcamTV', 17:30 [K League 1] Ulsan Hyundai FC vs FC Seoul
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/d7/Hcdghn.png' group-title='VongcamTV', 17:30 [Bóng chuyền VĐQG 2026] HCĐG Lào Cai vs BC Thông Tin BĐ19
