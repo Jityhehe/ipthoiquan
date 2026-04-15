@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2939.png' group-title='VongcamTV', 01:00 [Pro League] Al-Nassr vs Al-Ettifaq
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='VongcamTV', 02:00 [UEFA Champions League] Bayern München vs Real Madrid
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='VongcamTV', 02:00 [Trung Lập] Bayern München vs Real Madrid
 https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='VongcamTV', 02:00 [UEFA Champions League] Bayern München vs Real Madrid
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='VongcamTV', 02:00 [Fan Bảy Yến] Bayern München vs Real Madrid
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='VongcamTV', 02:00 [UEFA Champions League] Bayern München vs Real Madrid
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='VongcamTV', 02:00 [Fan Real ] Bayern München vs Real Madrid
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/42.png' group-title='VongcamTV', 02:00 [UEFA Champions League] Arsenal vs Sporting CP
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
