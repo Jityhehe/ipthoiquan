@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a3/Bangkok_United%2C_2018.png' group-title='HoiQuanTV', 19:15 [HoiQuanTV] Bangkok United vs Gamba Osaka
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/23209.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] China PR U20 W vs Japan U20 W
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/5/53/Cobolli_RGQ23_%2852944096963%29.jpg' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Flavio Coboli vs Zizou Bergs
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8c/Rafa_J%C3%B3dar_Espinar_2025.jpg' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Rafael Jodar vs Camilo Ugo Carabelli
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhkFanfzFiv4OgQlS0FP8zITYq6a_Y7Zg7A&s' group-title='HoiQuanTV', 22:00 [HoiQuanTV] Cherno More Varna vs CSKA 1948
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2930.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Al-Faisaly FC vs Al Taee
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3ZMcLTxrcrE5sPJnk8sQRl4N_EJ5KLlBfg&s' group-title='HoiQuanTV', 22:00 [HoiQuanTV] Jelena Ostapenko vs Mirra Andreeva 22h
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/79/FC_Arda_logo_2018.png' group-title='HoiQuanTV', 00:30 [HoiQuanTV] Arda Kardzhali vs Ludogorets
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2939.png' group-title='HoiQuanTV', 01:00 [HoiQuanTV] Al-Nassr vs Al-Ettifaq

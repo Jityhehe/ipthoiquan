@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/bJSUUpGG-AoZW059P.png' group-title='VongcamTV', 19:30 [U17 Đông Nam Á] U17 Myanmar - Thái Lan U17
-https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://i.postimg.cc/8zkVhWCF/big-1676300142ds-M6v.png' group-title='VongcamTV', 20:30 [Bóng chuyền VĐQG 2026] Hà Nội vs LP Bank Ninh Bình
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/8504.png' group-title='VongcamTV', 21:00 [Cup] Sloga Doboj vs Velež
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2935.png' group-title='VongcamTV', 23:05 [Division 1] Al-Raed vs Al Orubah
