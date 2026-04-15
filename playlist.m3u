@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/76/Logo_KT_Rolster.svg' group-title='HoiQuanTV', 17:00 [HoiQuanTV] KT vs DK
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://makan.vn/wp-content/uploads/2023/04/logo-ao-bong-chuyen-01-2.jpg' group-title='HoiQuanTV', 17:30 [HoiQuanTV] HCĐG Lào Cai - BC Thông Tin BĐ19
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkA1xoW-KyV_0L8lRJKZ80bR72dYwhY-cILw&s' group-title='HoiQuanTV', 18:30 [HoiQuanTV] Alexander Blockx vs Ben Shelton
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://pbs.twimg.com/media/Gr5VwgSXoAA3ipY?format=jpg&name=large' group-title='HoiQuanTV', 18:30 [HoiQuanTV] Alex de Minaur vs Hamad Medjedovic
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png' group-title='HoiQuanTV', 18:35 [HoiQuanTV]  Guangzhou vs Shanghai
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/5/55/Shanxi_Brave_Dragons_logo.jpg' group-title='HoiQuanTV', 18:35 [HoiQuanTV] Shanxi Zhongyu vs Zhejiang Guangsha
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a3/Bangkok_United%2C_2018.png' group-title='HoiQuanTV', 19:15 [HoiQuanTV] Bangkok United vs Gamba Osaka
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/23209.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] China PR U20 W vs Japan U20 W
