@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/19932.png' group-title='HoiQuanTV', 14:10 [HoiQuanTV] Papua New Guinea W vs New Zealand W
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://pbs.twimg.com/media/Epa94XrU0AIoHdE?format=jpg&name=large' group-title='HoiQuanTV', 15:00 [HoiQuanTV] NS vs BFX
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/23206.png' group-title='HoiQuanTV', 16:00 [HoiQuanTV] Korea DPR U20 vs Korea Republic U20 W
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cS73cD5Bq_Zse5RpXo_speC3fE8OJly8zw&s' group-title='HoiQuanTV', 16:00 [HoiQuanTV] Arthur Rinderknech vs Joao Fonseca
