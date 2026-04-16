@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.licdn.com/dms/image/v2/D4D0BAQHJRWovV7XAQQ/company-logo_200_200/company-logo_200_200/0/1730944690974/long_son_cement_logo?e=2147483647&v=beta&t=O3Wmf9feAbBfcSf38JWLqmUO41uTfXl8gNUVj8NU9IY' group-title='VongcamTV', 17:30 [Bóng chuyền VĐQG 2026] XMLS Thanh Hoá vs Geleximco Hưng Yên
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O0ptn4EG-UF5mrh9q.png' group-title='VongcamTV', 19:30 [U17 Đông Nam Á] U17 Malaysia - Indonesia U17
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4533.png' group-title='VongcamTV', 22:00 [League] Al Jazeera vs Al Buqa'a
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4533.png' group-title='VongcamTV', 22:00 [League] Al Jazeera vs Al Buqa'a
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/538.png' group-title='VongcamTV', 23:45 [UEFA Europa League] Celta Vigo vs SC Freiburg
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/201.png' group-title='VongcamTV', 23:45 [UEFA Europa Conference League] AZ Alkmaar vs Shakhtar Donetsk
@@ -14,4 +12,12 @@ https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/65.png' group-title='VongcamTV', 02:00 [UEFA Europa League] Nottingham Forest vs FC Porto
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/66.png' group-title='VongcamTV', 02:00 [UEFA Europa League] Aston Villa vs Bologna
+https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/0/06/LP_Bank_Ninh_B%C3%ACnh_logo.png/250px-LP_Bank_Ninh_B%C3%ACnh_logo.png' group-title='VongcamTV', 12:00 [Bóng chuyền VĐQG 2026] LP Bank Ninh Bình vs BC Thông Tin BĐ19
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRgqSje3fdQR3DtlrOowzHURUBfLp5grBSrA&s' group-title='VongcamTV', 14:30 [Bóng chuyền VĐQG 2026] Công An TP HCM vs LP Bank Ninh Bình
+https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3677.png' group-title='VongcamTV', 17:00 [V.League 2] Sanna Khanh Hoa vs Hồ Chí Minh II
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://play-lh.googleusercontent.com/F8D0AbyMmiuwsTZYLaPsu_o40XGfQHgvRnq25lVSWupgHPpH3-TQ9soMrWwDJco3siI=w240-h480-rw' group-title='VongcamTV', 17:30 [Bóng chuyền VĐQG 2026] Vietinbank vs HCĐG Lào Cai
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
