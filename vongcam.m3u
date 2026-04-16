@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png/330px-Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png' group-title='VongcamTV', 14:30 [Bóng chuyền VĐQG 2026] Thể Công Tân Cảng vs Biên phòng MB
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_North_Vietnam_%281945%E2%80%931955%29.svg' group-title='VongcamTV', 15:30 [U17 Đông Nam Á] U17 Việt Nam - Timor Lester U17
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.licdn.com/dms/image/v2/D4D0BAQHJRWovV7XAQQ/company-logo_200_200/company-logo_200_200/0/1730944690974/long_son_cement_logo?e=2147483647&v=beta&t=O3Wmf9feAbBfcSf38JWLqmUO41uTfXl8gNUVj8NU9IY' group-title='VongcamTV', 17:30 [Bóng chuyền VĐQG 2026] XMLS Thanh Hoá vs Geleximco Hưng Yên
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/O0ptn4EG-UF5mrh9q.png' group-title='VongcamTV', 19:30 [U17 Đông Nam Á] U17 Malaysia - Indonesia U17
