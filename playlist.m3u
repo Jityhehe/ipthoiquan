@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Xp6R6nfpFwhEpBeHln9klK2IKYhtFAyZ9w&s' group-title='HoiQuanTV', 18:30 [HoiQuanTV] Lorenzo Sonego vs Andrey Rublev
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/8/8e/Jilin_Northeast_Tigers.PNG' group-title='HoiQuanTV', 18:35 [HoiQuanTV] Jilin vs Zhejiang Chouzhou
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a6/Jiangsu_Dragons.png' group-title='HoiQuanTV', 18:35 [HoiQuanTV] Jiangsu Dragons vs Fujian
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a3/Manila_Digger_F.C.png' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Manila Digger vs Svay Rieng
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/2/2e/Zverev_MCM23_%2820%29.jpg' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Alexander Zverev vs Gabriel Diallo
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a9/PFCSeptemvriSofia.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Septemvri Sofia vs Spartak Varna
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/21137.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] East Bengal II vs Bengaluru
