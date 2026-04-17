@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/4/4a/Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Joao Fonseca vs Ben Shelton
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3670.png' group-title='HoiQuanTV', 19:15 [HoiQuanTV] Ha Noi vs Binh Duong
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/7177.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Odisha vs Mohammedan
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2929.png' group-title='HoiQuanTV', 21:45 [HoiQuanTV] Al-Ahli Jeddah vs Johor Darul Takzim FC
@@ -89,3 +87,79 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozill
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/7e/Eintracht_Frankfurt_crest.svg' group-title='HoiQuanTV', 23:30 [HoiQuanTV] Eintracht Frankfurt vs RB Leipzig
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSON_xAXqlmVA6CaABNgxtXMaVaFZIg65IPrg&s' group-title='HoiQuanTV', 00:00 [HoiQuanTV] Cleveland Cavaliers vs Toronto Raptors
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/77.png' group-title='HoiQuanTV', 00:00 [HoiQuanTV] Angers vs Le Havre
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png' group-title='HoiQuanTV', 01:45 [HoiQuanTV] AS Roma vs Atalanta
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png' group-title='HoiQuanTV', 02:00 [HoiQuanTV] Chelsea vs Manchester United
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png' group-title='HoiQuanTV', 02:00 [HoiQuanTV] Chelsea vs Manchester United
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg' group-title='HoiQuanTV', 02:00 [HoiQuanTV] Atletico Madrid vs Real Sociedad
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg' group-title='HoiQuanTV', 02:05 [HoiQuanTV] Lille vs Nice
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png' group-title='HoiQuanTV', 02:30 [HoiQuanTV] Denver Nuggets vs Minnesota Timberwolves
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Colorado_Rapids_logo.svg/803px-Colorado_Rapids_logo.svg.png' group-title='HoiQuanTV', 03:30 [HoiQuanTV] Colorado Rapids vs Inter Miami
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='HoiQuanTV', 05:00 [HoiQuanTV] New York Knicks vs Atlanta Hawks
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Escudo_del_Cruz_Azul_AC.svg/2048px-Escudo_del_Cruz_Azul_AC.svg.png' group-title='HoiQuanTV', 06:00 [HoiQuanTV] Cruz Azul vs Club Tijuana
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png' group-title='HoiQuanTV', 07:30 [HoiQuanTV] Los Angeles Lakers vs Houston Rockets
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Club_de_F%C3%BAtbol_Monterrey.png/250px-Club_de_F%C3%BAtbol_Monterrey.png' group-title='HoiQuanTV', 08:05 [HoiQuanTV] Monterrey vs Pachuca
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/24608.png' group-title='HoiQuanTV', 10:00 [HoiQuanTV] Auckland vs Central Coast Mariners
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Club_Am%C3%A9rica_crest.svg/1200px-Club_Am%C3%A9rica_crest.svg.png' group-title='HoiQuanTV', 10:10 [HoiQuanTV] Club America vs Toluca
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2767.png' group-title='HoiQuanTV', 12:00 [HoiQuanTV] Ulsan Hyundai FC vs Gwangju FC
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3zrZ0HFvG9-HWKYsCOLXgZJ1y7d2zLCzmQ&s' group-title='HoiQuanTV', 12:30 [HoiQuanTV] Adelaide United vs Macarthur
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png' group-title='HoiQuanTV', 13:00 [HoiQuanTV] Gamba Osaka vs Fagiano Okayama
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/lt/c/cf/Pohang_Steelers_logo.png' group-title='HoiQuanTV', 14:30 [HoiQuanTV] Pohang Steelers vs FC Anyang
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Persik_Kediri_logo.svg/1200px-Persik_Kediri_logo.svg.png' group-title='HoiQuanTV', 15:30 [HoiQuanTV] Persik Kediri vs Persita
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://1.bp.blogspot.com/-jBb9nJTi22g/Xw1w0zq5ypI/AAAAAAAAaoI/y5xrZ4P7Kg0MDoclmpkw1QJvvFh0JJkBACLcBGAsYHQ/s1600/US-Cremonese_logo_tr_237-design.png' group-title='HoiQuanTV', 17:30 [HoiQuanTV] Cremonese vs Torino
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3669.png' group-title='HoiQuanTV', 18:00 [HoiQuanTV] Da Nang vs Nam Dinh
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png' group-title='HoiQuanTV', 18:00 [HoiQuanTV] Thanh Hóa vs Song Lam Nghe An
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png' group-title='HoiQuanTV', 18:00 [HoiQuanTV] CA TP.HCM vs CAHN
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg' group-title='HoiQuanTV', 19:15 [HoiQuanTV] Viettel vs Hoang Anh Gia Lai
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/2560px-Flag_of_Indonesia.svg.png' group-title='HoiQuanTV', 19:30 [HoiQuanTV]  U17 Indonesia vs U17 Việt Nam
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/c/cf/LogoASMonacoFC2021.svg' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Monaco vs Auxerre
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Hellas Verona vs AC Milan
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Aston Villa vs Sunderland
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Everton vs Liverpool
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Nottingham Forest vs Burnley
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png' group-title='HoiQuanTV', 20:30 [HoiQuanTV] SC Freiburg vs 1. FC Heidenheim
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2872.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Al-Wasl FC vs Al-Nassr
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1200px-Racing_Club_de_Strasbourg_logo.svg.png' group-title='HoiQuanTV', 22:15 [HoiQuanTV] Strasbourg vs Rennes
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg' group-title='HoiQuanTV', 22:30 [HoiQuanTV] Manchester City vs Arsenal
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg' group-title='HoiQuanTV', 22:30 [HoiQuanTV] Manchester City vs Arsenal
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='HoiQuanTV', 22:30 [HoiQuanTV] Bayern München vs VfB Stuttgart
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Pisa vs Genoa
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
