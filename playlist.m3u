@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/296.png' group-title='HoiQuanTV', 11:00 [HoiQuanTV] Yokohama F. Marinos vs Kawasaki Frontale
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://sf-static.upanhlaylink.com/img/image_20251008e981c073179afad7d15eab53c21f6090.jpg' group-title='HoiQuanTV', 12:00 [HoiQuanTV] Hà Nội Tasco Auto - Geleximco Hưng Yên
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/d/de/Wellington_Phoenix_FC_logo.svg' group-title='HoiQuanTV', 12:00 [HoiQuanTV] Wellington Phoenix vs Western Sydney Wanderers
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a9/Jtthunders.png' group-title='HoiQuanTV', 12:05 [HoiQuanTV] JT Thunders - Osaka Bluteon
