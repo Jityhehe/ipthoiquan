@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.licdn.com/dms/image/v2/D4D0BAQHJRWovV7XAQQ/company-logo_200_200/company-logo_200_200/0/1730944690974/long_son_cement_logo?e=2147483647&v=beta&t=O3Wmf9feAbBfcSf38JWLqmUO41uTfXl8gNUVj8NU9IY' group-title='VongcamTV', 12:00 [Bóng chuyền VĐQG 2026] XMLS Thanh Hoá vs HCĐG Lào Cai
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/520.png' group-title='VongcamTV', 17:30 [Serie A] Cremonese vs Torino
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/0/06/LP_Bank_Ninh_B%C3%ACnh_logo.png/250px-LP_Bank_Ninh_B%C3%ACnh_logo.png' group-title='VongcamTV', 17:30 [Bóng chuyền VĐQG 2026] LP Bank Ninh Bình vs Vietinbank
