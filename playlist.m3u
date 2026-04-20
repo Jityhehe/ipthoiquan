@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://imgts.sportpulseapiz.com/football/team/9dn1m1ghw1jmoep/image/small' group-title='HoiQuanTV', 02:15 [HoiQuanTV] Moreirense vs Estoril
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSON_xAXqlmVA6CaABNgxtXMaVaFZIg65IPrg&s' group-title='HoiQuanTV', 06:00 [HoiQuanTV] Cleveland Cavaliers vs Toronto Raptors
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg' group-title='HoiQuanTV', 07:00 [HoiQuanTV] New York Knicks vs Atlanta Hawks
