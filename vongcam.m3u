@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/6486.png' group-title='VongcamTV', 22:00 [Cup] Bukovyna vs Dynamo Kyiv
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/531.png' group-title='VongcamTV', 00:00 [La Liga] Athletic Club vs Osasuna
-https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/798.png' group-title='VongcamTV', 00:00 [La Liga] Mallorca vs Valencia
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/51.png' group-title='VongcamTV', 02:00 [Premier League] Brighton vs Chelsea
-https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/505.png' group-title='VongcamTV', 02:00 [Coppa Italia] Inter vs Como
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/541.png' group-title='VongcamTV', 02:30 [La Liga] Real Madrid vs Alaves
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/541.png' group-title='VongcamTV', 02:30 [La Liga] Real Madrid vs Alaves
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://img0.aiscore.com/football/team/f3928d24f36131a4c3066a6989bfa52d.png!w60' group-title='VongcamTV', 15:30 [U17 Đông Nam Á] U17 Lao vs U17 Malaysia
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/293.png' group-title='VongcamTV', 17:00 [J1 League] Gamba Osaka vs Avispa Fukuoka
