@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/76/Logo_KT_Rolster.svg' group-title='HoiQuanTV', 15:00 [HoiQuanTV] KT vs DRX
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/250px-Flag_of_Laos.svg.png' group-title='HoiQuanTV', 15:30 [HoiQuanTV] U17 Lào vs U17 Malaysia
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/e/e0/HLE_logo.png' group-title='HoiQuanTV', 17:00 [HoiQuanTV] HLE vs NS
@@ -8,7 +6,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png' group-title='HoiQuanTV', 17:00 [HoiQuanTV] Gamba Osaka vs Avispa Fukuoka
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/lt/c/cf/Pohang_Steelers_logo.png' group-title='HoiQuanTV', 17:30 [HoiQuanTV] Pohang Steelers vs Gwangju FC
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://www.shutterstock.com/image-photo/anastasia-pavlyuchenkova-returns-ball-during-600nw-2355540697.jpg' group-title='HoiQuanTV', 18:00 [HoiQuanTV] Anastasia Pavlyuchenkova vs Alexandra Eala
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.gettyimages.com/id/2236397410/photo/chengdu-china-dino-prizmic-of-croatia-celebrates-during-the-mens-singles-round-of-16-match.jpg?s=612x612&w=gi&k=20&c=h72DfGN8FZnUYGV_2-yQ9o2j2A0csp7e1G4SrmFn4Iw=' group-title='HoiQuanTV', 18:30 [HoiQuanTV] Dino Prizmic vs Matteo Berrettini
