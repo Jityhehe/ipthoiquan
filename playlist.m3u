@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Shanghai Shenhua vs Qingdao Jonoon
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://imgts.sportpulseapiz.com/football/team/l5ergphovz1r8k0/image/small' group-title='HoiQuanTV', 19:30 [HoiQuanTV] U17 Việt Nam vs U17 Australia
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQkyAUfuxKzvB4id1v8REFtlVm67rK0MYI1A&s' group-title='HoiQuanTV', 20:30 [HoiQuanTV] Talia Gibson vs Emiliana Arango
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://pbs.twimg.com/media/Gr5VwgSXoAA3ipY?format=jpg&name=large' group-title='HoiQuanTV', 20:30 [HoiQuanTV] Tomas Machac vs Francisco Comesana
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvwSi8-k2w7cg7Rts4UU8lHe01sFR_Y80sQ&s' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Roberto Bautista Agut vs Thiago Agustin Tirante
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1080.png' group-title='HoiQuanTV', 21:30 [HoiQuanTV] FC Orenburg vs Nizhny Novgorod
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/b/b9/Pliskova_US16_%2829%29_%2829236393233%29.jpg' group-title='HoiQuanTV', 22:00 [HoiQuanTV] Karolína Plíšková vs Sinja Kraus
