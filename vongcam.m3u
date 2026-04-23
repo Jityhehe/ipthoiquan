@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/17965.png' group-title='VongcamTV', 17:00 [UEFA U17 Championship - Qualification] Moldova U17 vs Bosnia-Herzegovina U17
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/599.png' group-title='VongcamTV', 19:30 [Premier League] Zorya Luhansk vs Shakhtar Donetsk
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOe7s4iT8vz-yBkDR4Squs0YJC1LQgcdCAVw&s' group-title='VongcamTV', 19:30 [Cup Hùng Vương] Hà Nội Tasco Auto vs BC Thông tin - BĐ19
@@ -14,4 +12,18 @@ https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozill
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/172.png' group-title='VongcamTV', 01:45 [DFB Pokal] VfB Stuttgart vs SC Freiburg
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/718.png' group-title='VongcamTV', 02:30 [La Liga] Oviedo vs Villarreal
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCLDaTjEYECmYBLQAQCzyPbK6uzRMtYRFYw&s' group-title='VongcamTV', 15:30 [U17 Đông Nam Á] U17 Lào vs U17 Australia
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3673.png' group-title='VongcamTV', 17:00 [V.League 1] Hoang Anh Gia Lai vs Hai Phong
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png/250px-Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png' group-title='VongcamTV', 19:30 [Cup Hùng Vương] HCĐG Lào Cai vs VTV Bình Điền Long An
+https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png' group-title='VongcamTV', 19:30 [U17 Đông Nam Á] U17 Việt Nam vs Malaysia U17
+https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png' group-title='VongcamTV', 19:30 [U17 Đông Nam Á] U17 Việt Nam vs Malaysia U17
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRgqSje3fdQR3DtlrOowzHURUBfLp5grBSrA&s' group-title='VongcamTV', 21:00 [Cup Hùng Vương] Công an TP.HCM vs Thể Công Tân Cảng
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2945.png' group-title='VongcamTV', 23:10 [Pro League] Al-Hazm vs Al Riyadh
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
