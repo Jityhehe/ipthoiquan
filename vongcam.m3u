@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCLDaTjEYECmYBLQAQCzyPbK6uzRMtYRFYw&s' group-title='VongcamTV', 15:30 [U17 Đông Nam Á] U17 Lào vs U17 Australia
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://static.bongda24h.vn/Medias/original/2024/12/04/hagl-0412165205.jpg' group-title='VongcamTV', 17:00 [V.League 1] Hoang Anh Gia Lai vs Hai Phong
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://static.bongda24h.vn/Medias/original/2025/08/25/ninh-binh-lo-go-2508171453.jpg' group-title='VongcamTV', 18:00 [V.League 1] Ninh Bình vs Ha Noi
