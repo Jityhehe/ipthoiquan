@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg' group-title='HoiQuanTV', 17:00 [HoiQuanTV] Indonesia vs Thái Lan (Thomas)
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg' group-title='HoiQuanTV', 18:00 [HoiQuanTV] Hà Tĩnh vs CA TP.HCM
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3669.png' group-title='HoiQuanTV', 18:00 [HoiQuanTV] Da Nang vs Viettel
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Rayo Vallecano vs Real Sociedad
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/16400.png' group-title='HoiQuanTV', 19:15 [HoiQuanTV] Công An Nhân Dân vs Song Lam Nghe An
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/3/38/Logo_CAHN_FC.svg' group-title='HoiQuanTV', 19:15 [HoiQuanTV] Công An Nhân Dân vs Song Lam Nghe An
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/4/4e/Genoa_cfc.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Genoa vs Como
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -18,7 +12,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Biên Phòng MB vs Công An TPHCM
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkuD4iDpTTtrKYv1EJ3LPjU01T_fPpfF-hg&s' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Jannik Sinner vs Elmer Moller
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/718.png' group-title='HoiQuanTV', 21:15 [HoiQuanTV] Oviedo vs Elche
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/a/ad/Stade_Rennais_FC.png' group-title='HoiQuanTV', 22:15 [HoiQuanTV] Rennes vs Nantes
