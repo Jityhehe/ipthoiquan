@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/502.png' group-title='VongcamTV', 17:30 [Serie A] Fiorentina vs Sassuolo
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/728.png' group-title='VongcamTV', 19:00 [La Liga] Rayo Vallecano vs Real Sociedad
 https://bglive.zlylive.com/live/bgtv_blv_tieuhac/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkN4zqMNT29vFr3Sl3Td2Ie7g7YftCsp4DiA&s' group-title='VongcamTV', 19:00 [Cup Hùng Vương] BC Thông tin - BĐ19 vs VTV BĐ Long An
