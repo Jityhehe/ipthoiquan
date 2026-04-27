@@ -1,20 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/YwQfmcEa-YTwvSpN0.png' group-title='HoiQuanTV', 13:30 [HoiQuanTV] Trung Quốc vs Canada (Thomas)
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/d/d8/NEC_Red_Rockets_Kawasaki.png' group-title='HoiQuanTV', 15:00 [HoiQuanTV] NEC Red Rockets W (Jpn) - Harudot Chonburi W (Tha)
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/5/5e/Bali_United_logo.svg' group-title='HoiQuanTV', 15:30 [HoiQuanTV] Bali United vs PSM Makassar
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg' group-title='HoiQuanTV', 17:00 [HoiQuanTV] Goyang Sono vs LG Sakers
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/3840px-Flag_of_Japan.svg.png' group-title='HoiQuanTV', 17:00 [HoiQuanTV] Nhật Bản vs Anh (Thomas)
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWm8CBcQz1IvkNxRxcrUjG2os8GIeQt4j7Ww&s' group-title='HoiQuanTV', 17:30 [HoiQuanTV] Stefanos Tsitsipas vs Daniel Merida
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/7/76/Persija_Jakarta_Football_Logo.png' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Persija Jakarta vs Persis Solo
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-ThUSVRA1sgqwj_Qe4f22lmchMKp66MuBg&s' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Daniil Medvedev vs Nicolai Budkov Kjaer
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/4/40/Alanyaspor_logo.svg' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Alanyaspor vs Samsunspor
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4219.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Olmaliq vs Lokomotiv
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/9/9e/Noskova_RGQ22_%289%29_%2852129787314%29.jpg' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Linda Nosková vs Coco Gauff
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/1/13/Qatar_SC_logo.svg' group-title='HoiQuanTV', 21:15 [HoiQuanTV] Qatar SC vs Al-Duhail SC
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2604.png' group-title='HoiQuanTV', 21:30 [HoiQuanTV] Metaloglobus vs Unirea Slobozia
@@ -29,6 +33,8 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozil
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Konyaspor_logo.svg/1280px-Konyaspor_logo.svg.png' group-title='HoiQuanTV', 00:00 [HoiQuanTV] Konyaspor vs Trabzonspor
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://image.sggp.org.vn/w1000/Uploaded/2026/ldfnyrykxq/2025_08_15/atmane-5203-3906.jpeg.webp' group-title='HoiQuanTV', 01:00 [HoiQuanTV] Terence Atmane vs Alexander Zverev
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png' group-title='HoiQuanTV', 01:45 [HoiQuanTV] Lazio vs Udinese
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/33.png' group-title='HoiQuanTV', 02:00 [HoiQuanTV] Manchester United vs Brentford
@@ -37,6 +43,8 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/f/fd/Rcd_espanyol_de_barcelona.gif' group-title='HoiQuanTV', 02:00 [HoiQuanTV] Espanyol vs Levante
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://www.shutterstock.com/image-photo/anastasia-pavlyuchenkova-returns-ball-during-600nw-2355540697.jpg' group-title='HoiQuanTV', 02:00 [HoiQuanTV] Anastasia Potapova vs Elena Rybakina
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://imgts.sportpulseapiz.com/football/team/vjxm8ghp83dr6od/image/small' group-title='HoiQuanTV', 02:15 [HoiQuanTV] Gil Vicente vs Casa Pia AC
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/445.png' group-title='HoiQuanTV', 07:00 [HoiQuanTV] Huracan vs Argentinos JRS
@@ -52,7 +60,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Arema_FC_2017_logo.svg/1280px-Arema_FC_2017_logo.svg.png' group-title='HoiQuanTV', 15:30 [HoiQuanTV] Arema FC vs Persebaya Surabaya
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg' group-title='HoiQuanTV', 16:00 [HoiQuanTV] Hồng Kông vs Hà Lan (Nữ)
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/250px-Flag_of_Denmark.svg.png' group-title='HoiQuanTV', 16:00 [HoiQuanTV] Đan Mạch vs Mexico (Nam)
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1f/Invictus_Gaming_logo.png' group-title='HoiQuanTV', 16:00 [HoiQuanTV] IG vs AL
@@ -62,7 +70,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg' group-title='HoiQuanTV', 18:30 [HoiQuanTV] Thụy Điển vs Costa Rica (Nữ)
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png' group-title='HoiQuanTV', 18:30 [HoiQuanTV] Ấn Độ vs Tunusia (Nam)
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/1/15/Guangdong_Southern_Tigers.png' group-title='HoiQuanTV', 18:35 [HoiQuanTV] Guangdong vs Guangzhou
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/8/88/Shandong_Taishan_Football_Club.svg' group-title='HoiQuanTV', 18:35 [HoiQuanTV] Shandong vs Liaoning
@@ -74,7 +82,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozil
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/21038.png' group-title='HoiQuanTV', 20:00 [HoiQuanTV] Melaka vs Johor Darul Takzim FC
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Úc vs Ma Rốc (Nam)
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Halkbank_Spor_Kul%C3%BCb%C3%BC_logo.svg/960px-Halkbank_Spor_Kul%C3%BCb%C3%BC_logo.svg.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Halkbank - Spor Toto
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Indonesia vs Pháp (Thomas)
