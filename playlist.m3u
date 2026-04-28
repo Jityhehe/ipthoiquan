@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/445.png' group-title='HoiQuanTV', 07:00 [HoiQuanTV] Huracan vs Argentinos JRS
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1280px-Orlando_Magic_logo.svg.png' group-title='HoiQuanTV', 07:30 [HoiQuanTV] Orlando Magic vs Detroit Pistons
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://logodetimes.com/times/phoenix-suns/logo-phoenix-suns-1536.png' group-title='HoiQuanTV', 08:30 [HoiQuanTV] Phoenix Suns vs Oklahoma City Thunder
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png' group-title='HoiQuanTV', 09:30 [HoiQuanTV] Denver Nuggets vs Minnesota Timberwolves
