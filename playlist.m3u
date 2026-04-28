@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWm8CBcQz1IvkNxRxcrUjG2os8GIeQt4j7Ww&s' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Stefanos Tsitsipas vs Casper Ruud
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-2IZ7SBXWpljhH4rIu-Tye97B1v9D03HKw&s' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Vit Kopriva vs Rafael Jodar
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Halkbank_Spor_Kul%C3%BCb%C3%BC_logo.svg/960px-Halkbank_Spor_Kul%C3%BCb%C3%BC_logo.svg.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Halkbank - Spor Toto
