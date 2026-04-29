@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/13/JEFUnitedIchiharaChiba.png' group-title='HoiQuanTV', 12:00 [HoiQuanTV] JEF United Chiba vs Yokohama F. Marinos
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/8/8a/Vissel_Kobe_logo.svg' group-title='HoiQuanTV', 12:00 [HoiQuanTV] Vissel Kobe vs Cerezo Osaka
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png' group-title='HoiQuanTV', 14:00 [HoiQuanTV] Kashiwa Reysol vs FC Tokyo
