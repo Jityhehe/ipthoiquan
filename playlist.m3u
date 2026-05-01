@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png' group-title='HoiQuanTV', 19:00 [HoiQuanTV] Shanghai Shenhua vs Chengdu Better City
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3670.png' group-title='HoiQuanTV', 19:15 [HoiQuanTV] Ha Noi vs Da Nang
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/tr/f/f6/%C3%87aykur_Rizespor_Logo.png' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Rizespor vs Konyaspor
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkuD4iDpTTtrKYv1EJ3LPjU01T_fPpfF-hg&s' group-title='HoiQuanTV', 21:00 [HoiQuanTV] Jannik Sinner vs Arthur Fils
