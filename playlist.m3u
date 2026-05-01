@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/lfhpQAXg-AixrR4x7.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Thái Lan vs Đan Mạch (Thomas)
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/t2lS8cf5-GntWT6hl.png' group-title='HoiQuanTV', 23:00 [HoiQuanTV] Pháp vs Nhật Bản (Thomas)
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkA1xoW-KyV_0L8lRJKZ80bR72dYwhY-cILw&s' group-title='HoiQuanTV', 01:00 [HoiQuanTV] Alexander Blockx vs Alexander Zverev
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://pngdownload.io/wp-content/uploads/2023/12/Real-Madrid-Logo-Iconic-Football-Club-Emblem-PNG-Transparent-Symbol-of-Excellence-jpg.webp' group-title='HoiQuanTV', 01:45 [HoiQuanTV] Real Madrid vs Hapoel Tel Aviv
