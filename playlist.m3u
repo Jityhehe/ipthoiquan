@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.flashscore.com/res/image/data/YwQfmcEa-YTwvSpN0.png' group-title='HoiQuanTV', 15:00 [HoiQuanTV] Trung Quốc vs Malaysia (Thomas)
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3674.png' group-title='HoiQuanTV', 18:00 [HoiQuanTV] Nam Định vs CA TP.HCM
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/c/ce/Liaoning_Football_Club.svg.png' group-title='HoiQuanTV', 18:35 [HoiQuanTV] Liaoning vs Shandong
