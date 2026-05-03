@@ -31,3 +31,7 @@ https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/
 https://bglive.zlylive.com/live/bgtv_blv_tieuhac/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/540.png' group-title='VongcamTV', 02:00 [La Liga] Espanyol vs Real Madrid
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2445.png' group-title='VongcamTV', 15:30 [Liga 1] Persib Bandung vs PSIM Yogyakarta
+https://bglive.zlylive.com/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png' group-title='VongcamTV', 18:30 [U17 Nữ Châu Á ] U17 Việt Nam - U17 Trung Quốc
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
